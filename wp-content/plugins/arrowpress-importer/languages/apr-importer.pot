@@ -1,0 +1,590 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArrowPress Importer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-17 06:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Domain: apr-importer"
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:407
+#, php-format
+msgid ""
+"%1$s%3$sThat's it, all done!%4$s%2$sThe demo import has finished. Please "
+"check your page and make sure that everything has imported correctly."
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:394
+#, php-format
+msgid ""
+"%1$s%6$sWasn't this a great One Click Demo Import experience?%7$s Created "
+"and maintained by %3$sProteusThemes%4$s. %2$s%5$sClick to Tweet!%4$s%8$s"
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:418
+#, php-format
+msgid ""
+"%1$sThe demo import has finished, but there were some import errors.%2$sMore "
+"details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:35
+#, php-format
+msgid ""
+"%sWarning: your server is using %sPHP safe mode%s. This means that you might "
+"experience server timeout errors.%s"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:405
+#, php-format
+msgid ""
+"%sYour user role isn't high enough. You don't have permission to import demo "
+"data.%s"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:67
+msgid ""
+"After importing successfully! You continue to follow the steps to set up "
+"your website according to the steps we have guided in the guide."
+msgstr ""
+
+#. Author of the plugin
+msgid "AHT"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:158
+msgid "All"
+msgstr ""
+
+#: one-click-demo-import/inc/Downloader.php:76
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:276
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %s%s."
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:323
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:199
+#: one-click-demo-import/inc/Helpers.php:242
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %s%s."
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:190
+msgid "Are you sure?"
+msgstr ""
+
+#. Name of the plugin
+#: arrowpress-importer.php:319
+msgid "ArrowPress Importer"
+msgstr ""
+
+#. Description of the plugin
+msgid "ArrowPress One click demo import"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:71
+msgid ""
+"At least one of the possible options should be set! Check them with --help"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:48
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:191
+msgid "Cancel"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:114
+msgid "Choose a DAT file for customizer import:"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:120
+msgid "Choose a JSON file for Redux import:"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:109
+msgid "Choose a WIE or JSON file for widget import:"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:104
+msgid "Choose a XML file for content import:"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:467
+#, php-format
+msgid "Content file was not uploaded. Error: %s"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:185
+msgid "Content import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:201
+msgid "Content import finished!"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:501
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:254
+msgid "Customizer import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: one-click-demo-import/inc/CustomizerImporter.php:43
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:263
+msgid "Customizer settings imported successfully!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:148
+msgid "Demo import files could not be retrieved!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:151
+msgid "Demo import files retrieved successfully!"
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:253
+#: one-click-demo-import/inc/OneClickDemoImport.php:264
+msgid "Downloaded files"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:123
+msgid "Enter the Redux option name:"
+msgstr ""
+
+#: one-click-demo-import/inc/CustomizerImporter.php:73
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: one-click-demo-import/inc/CustomizerImporter.php:93
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: one-click-demo-import/inc/CustomizerImporter.php:99
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: one-click-demo-import/inc/WidgetImporter.php:118
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: one-click-demo-import/inc/WidgetImporter.php:88
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:286
+#, php-format
+msgid "Executing action: %s ..."
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:572
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = "
+"%4$s%1$sCustomizer file = %5$s%1$sRedux files:%1$s%6$s"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:64
+msgid ""
+"First you need to import Base Content first. Then, please click on the "
+"Import button only once and wait, it can take a couple of minutes."
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:67
+msgid "here"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:37
+msgid "Here are the predefined demo imports:"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.arrowhitech.com/"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:191
+msgid "Import"
+msgstr ""
+
+#: arrowpress-importer.php:320
+msgid "Import Demo Content"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:311
+#: one-click-demo-import/inc/OneClickDemoImport.php:138
+#: one-click-demo-import/views/plugin-page.php:131
+#: one-click-demo-import/views/plugin-page.php:143
+msgid "Import Demo Data"
+msgstr ""
+
+#: one-click-demo-import/inc/WidgetImporter.php:276
+msgid "Imported"
+msgstr ""
+
+#: one-click-demo-import/inc/WidgetImporter.php:280
+msgid "Imported to Inactive"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:196
+msgid "Importing content"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:194
+msgid "Importing content (this might take a while)..."
+msgstr ""
+
+#: one-click-demo-import/inc/CustomizerImporter.php:37
+#: one-click-demo-import/inc/CustomizerImporter.php:45
+msgid "Importing customizer settings"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:258
+msgid "Importing customizer settings..."
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:53
+msgid ""
+"Importing demo data (post, pages, images, theme settings, ...) is the "
+"easiest way to setup your theme."
+msgstr ""
+
+#: one-click-demo-import/inc/ReduxImporter.php:32
+#: one-click-demo-import/inc/ReduxImporter.php:53
+#: one-click-demo-import/inc/ReduxImporter.php:66
+msgid "Importing Redux settings"
+msgstr ""
+
+#: one-click-demo-import/inc/WidgetImporter.php:40
+#: one-click-demo-import/inc/WidgetImporter.php:52
+msgid "Importing widgets"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:227
+msgid "Importing widgets..."
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:206
+msgid "Importing, please wait!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:153
+msgid "Importing..."
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:568
+#, php-format
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:54
+msgid ""
+"It will allow you to quickly edit everything instead of creating content "
+"from scratch."
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:391
+msgid ""
+"Just used One Click Demo Import plugin and it was awesome! Thanks "
+"@ProteusThemes! #OCDI https://www.proteusthemes.com/"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:101
+msgid "Manual demo files upload"
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:240
+msgid "Manually uploaded files"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:514
+msgid "Missing Redux option name! Please also enter the Redux option name!"
+msgstr ""
+
+#: one-click-demo-import/inc/Downloader.php:58
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: one-click-demo-import/inc/Importer.php:174
+msgid "New AJAX call!"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:62
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified."
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:438
+msgid "No file provided."
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:269
+msgid "No import files specified!"
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:189
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:186
+msgid "No preview image."
+msgstr ""
+
+#: one-click-demo-import/inc/WidgetImporter.php:333
+msgid "No results for widget import!"
+msgstr ""
+
+#: one-click-demo-import/inc/WidgetImporter.php:286
+msgid "No Title"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:575
+#: one-click-demo-import/inc/Helpers.php:576
+#: one-click-demo-import/inc/Helpers.php:577
+#: one-click-demo-import/inc/Helpers.php:578
+msgid "not defined!"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:310
+#: one-click-demo-import/inc/OneClickDemoImport.php:137
+#: one-click-demo-import/views/plugin-page.php:25
+msgid "One Click Demo Import"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:371
+msgid "One Click Demo Import - "
+msgstr ""
+
+#: arrowpress-importer.php:43 arrowpress-importer.php:49
+#: arrowpress-importer.php:56 arrowpress-importer.php:63
+#: arrowpress-importer.php:70 arrowpress-importer.php:77
+#: arrowpress-importer.php:84 arrowpress-importer.php:91
+msgid ""
+"Please waiting for a few minutes, do not close the window or refresh the "
+"page until the data is imported."
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:63
+msgid ""
+"Posts, pages, images, widgets, menus and other theme settings will get "
+"imported."
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:135
+msgid "Predefined demo import started! All other parameters will be ignored!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:173
+msgid "Predefined import finished!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:143
+msgid "Preparing the demo import files..."
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:193
+msgid "Preview"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:532
+#, php-format
+msgid "Redux file was not uploaded. Error: %s"
+msgstr ""
+
+#: one-click-demo-import/inc/ReduxImporter.php:51
+#, php-format
+msgid "Redux settings import for: %s finished successfully!"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:165
+msgid "Search demos..."
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:193
+msgid "Selected demo import:"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:140
+#, php-format
+msgid "Selected predefined demo import: %s"
+msgstr ""
+
+#: one-click-demo-import/inc/WidgetImporter.php:157
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: one-click-demo-import/inc/WidgetImporter.php:178
+msgid "Site does not support widget"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:78
+msgid "Switch back to theme predefined imports!"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:76
+msgid "Switch to manual import!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:122
+msgid ""
+"The \"predefined\" parameter should be a number (an index of the OCDI "
+"predefined demo import)!"
+msgstr ""
+
+#: one-click-demo-import/one-click-demo-import.php:57
+#, php-format
+msgid ""
+"The %2$sOne Click Demo Import%3$s plugin requires %2$sPHP 5.3.2+%3$s to run "
+"properly. Please contact your hosting company and ask them to update the PHP "
+"version of your site to at least PHP 5.3.2.%4$s Your current version of PHP: "
+"%2$s%1$s%3$s"
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:260
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:542
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: one-click-demo-import/inc/ReduxImporter.php:57
+#, php-format
+msgid ""
+"The Redux option name: %s, was not found in this WP site, so it was not "
+"imported!"
+msgstr ""
+
+#: one-click-demo-import/inc/ReduxImporter.php:23
+msgid "The Redux plugin is not activated, so the Redux import was skipped!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:128
+msgid ""
+"The supplied predefined index does not exist! Please take a look at the "
+"available predefined demo imports:"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:65
+msgid ""
+"Then, you can import homepage you want. If you cannot import with ArrowPress "
+"Importer plugin, you can import with One Click Demo Import plugin and you "
+"need to deactivate the Arrowpress Importer plugin to import."
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:34
+msgid "There are no predefined demo imports for currently active theme!"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:94
+msgid ""
+"There are no predefined import files available in this theme. Please upload "
+"the import files manually!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:266
+msgid "There were some issues while importing customizer settings!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:204
+msgid "There were some issues while importing the content!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:235
+msgid "There were some issues while importing widgets!"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:299
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory "
+"of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:471
+#: one-click-demo-import/inc/Helpers.php:488
+#: one-click-demo-import/inc/Helpers.php:505
+#: one-click-demo-import/inc/Helpers.php:516
+#: one-click-demo-import/inc/Helpers.php:536
+#: one-click-demo-import/inc/Helpers.php:544
+msgid "Upload files"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:59
+msgid "When you import the data, the following things might happen:"
+msgstr ""
+
+#: one-click-demo-import/inc/WidgetImporter.php:211
+msgid "Widget already exists"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:484
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:223
+msgid "Widgets import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: one-click-demo-import/inc/WPCLICommands.php:232
+msgid "Widgets imported successfully!"
+msgstr ""
+
+#: one-click-demo-import/views/plugin-page.php:70
+msgid ""
+"With demo content, we have reduced some unnecessary settings compared to the "
+"version demo to be able to import faster. We have set up available a few "
+"layouts of the shop, blog, ... If you want to set up the website according "
+"to your idea, you can read the Guide. You can then go to Appearance -> "
+"Customize and set up layout. In addition, you can config separately for each "
+"Category, Post, Product by config in Edit Category, Edit Post, Edit Page, "
+"Edit Product,... "
+msgstr ""
+
+#: one-click-demo-import/inc/OneClickDemoImport.php:192
+msgid "Yes, import!"
+msgstr ""
+
+#: one-click-demo-import/inc/Helpers.php:331
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""

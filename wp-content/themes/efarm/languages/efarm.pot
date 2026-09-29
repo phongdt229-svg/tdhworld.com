@@ -1,0 +1,3661 @@
+# Copyright (C) 2025 efarm
+# This file is distributed under the same license as the efarm package.
+msgid ""
+msgstr ""
+"Project-Id-Version: efarm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-12-18 07:21+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:22
+msgid "go back home"
+msgstr ""
+
+#: archive-gallery.php:89, taxonomy.php:139, templates/content-press-archive.php:58
+msgid "All"
+msgstr ""
+
+#: archive-gallery.php:117, taxonomy.php:167
+msgid "View more"
+msgstr ""
+
+#: coming-soon.php:3, inc/admin/settings/settings.php:2689
+msgid "Coming soon"
+msgstr ""
+
+#: comments.php:14
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:22
+msgid "Reply"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:53, woocommerce/single-product-reviews.php:74
+msgid "Your Name*"
+msgstr ""
+
+#: comments.php:56, woocommerce/single-product-reviews.php:76
+msgid "Your Email*"
+msgstr ""
+
+#: comments.php:60
+msgid "Your comment*"
+msgstr ""
+
+#: comments.php:62
+msgid "Leave your comment"
+msgstr ""
+
+#: comments.php:63
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:68
+msgid "submit"
+msgstr ""
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:151
+msgid "A product has been added to cart."
+msgstr ""
+
+#: functions.php:152
+msgid "A product has been added to compare"
+msgstr ""
+
+#: functions.php:164, inc/admin/settings/settings.php:1551, inc/admin/settings/settings.php:1573, inc/admin/settings/settings.php:1950, inc/admin/settings/settings.php:2137, inc/admin/settings/settings.php:2303
+msgid "Like"
+msgstr ""
+
+#: functions.php:165
+msgid "Unlike"
+msgstr ""
+
+#: functions.php:169
+msgid "The requested content cannot be loaded. Please try again later."
+msgstr ""
+
+#: functions.php:170
+msgid "Close"
+msgstr ""
+
+#: functions.php:171
+msgid "Previous"
+msgstr ""
+
+#: functions.php:172
+msgid "Next"
+msgstr ""
+
+#: search.php:36
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:40
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: searchform.php:3
+msgid "Enter the keyword..."
+msgstr ""
+
+#: headers/header_1.php:36, headers/header_1.php:57, headers/header_1.php:211, headers/header_2.php:96, headers/header_3.php:153, headers/header_4.php:36, headers/header_4.php:57, headers/header_4.php:211, headers/header_5.php:41, headers/header_5.php:62, headers/header_6.php:36, headers/header_6.php:57, headers/header_6.php:211, headers/header_7.php:36, headers/header_7.php:57, headers/header_7.php:223, headers/header_8.php:36, headers/header_8.php:57, headers/header_8.php:211, headers/header_9.php:36, headers/header_9.php:57, headers/header_9.php:211, inc/functions/layout.php:231, inc/functions/layout.php:270
+msgid "My Account"
+msgstr ""
+
+#: headers/header_1.php:39, headers/header_1.php:60, headers/header_4.php:39, headers/header_4.php:60, headers/header_5.php:44, headers/header_5.php:65, headers/header_6.php:39, headers/header_6.php:60, headers/header_7.php:39, headers/header_7.php:60, headers/header_8.php:39, headers/header_8.php:60, headers/header_9.php:39, headers/header_9.php:60, inc/functions/layout.php:233, inc/functions/layout.php:272
+msgid "Wishlist"
+msgstr ""
+
+#: headers/header_1.php:44, headers/header_1.php:65, headers/header_1.php:210, headers/header_2.php:100, headers/header_3.php:157, headers/header_4.php:44, headers/header_4.php:65, headers/header_4.php:210, headers/header_5.php:49, headers/header_5.php:70, headers/header_6.php:44, headers/header_6.php:65, headers/header_6.php:210, headers/header_7.php:44, headers/header_7.php:65, headers/header_7.php:222, headers/header_8.php:44, headers/header_8.php:65, headers/header_8.php:210, headers/header_9.php:44, headers/header_9.php:65, headers/header_9.php:210, inc/functions/layout.php:284
+msgid "Logout"
+msgstr ""
+
+#: headers/header_1.php:42, headers/header_1.php:63, headers/header_2.php:98, headers/header_3.php:155, headers/header_4.php:42, headers/header_4.php:63, headers/header_5.php:47, headers/header_5.php:68, headers/header_6.php:42, headers/header_6.php:63, headers/header_7.php:42, headers/header_7.php:63, headers/header_8.php:42, headers/header_8.php:63, headers/header_9.php:42, headers/header_9.php:63, inc/functions/layout.php:282, inc/functions/layout.php:282
+msgid "Login / Register"
+msgstr ""
+
+#: headers/header_1.php:133, headers/header_4.php:133, headers/header_5.php:214, headers/header_6.php:133, headers/header_7.php:145, headers/header_8.php:133, headers/header_9.php:133
+msgid "Menu"
+msgstr ""
+
+#: headers/header_1.php:135, headers/header_4.php:135, headers/header_6.php:135, headers/header_7.php:147, headers/header_8.php:135, headers/header_9.php:135
+msgid "Account"
+msgstr ""
+
+#: headers/header_1.php:155, headers/header_2.php:157, headers/header_3.php:102, headers/header_3.php:214, headers/header_4.php:155, headers/header_5.php:246, headers/header_6.php:155, headers/header_7.php:167, headers/header_8.php:155, headers/header_9.php:155
+msgid "LET&rsquo;S GET SOCIAL"
+msgstr ""
+
+#: headers/header_1.php:180, headers/header_1.php:286, headers/header_2.php:182, headers/header_3.php:127, headers/header_3.php:239, headers/header_4.php:180, headers/header_4.php:286, headers/header_6.php:180, headers/header_6.php:286, headers/header_7.php:192, headers/header_7.php:298, headers/header_8.php:180, headers/header_9.php:180, headers/header_9.php:286
+msgid "Contact Us"
+msgstr ""
+
+#: headers/header_1.php:208, headers/header_4.php:208, headers/header_6.php:208, headers/header_7.php:220, headers/header_8.php:208, headers/header_9.php:208
+msgid "Member Login"
+msgstr ""
+
+#: headers/header_5.php:96
+msgid "Free call"
+msgstr ""
+
+#: headers/header_5.php:203, inc/admin/settings/settings.php:1552, inc/admin/settings/settings.php:1574, inc/admin/settings/settings.php:1951, inc/admin/settings/settings.php:2138, inc/admin/settings/settings.php:2304
+msgid "Categories"
+msgstr ""
+
+#: templates/content-blog-archive.php:102, templates/content-blog-archive.php:167, templates/content-knowledge-archive.php:89, templates/content-press-archive.php:168, templates/content-single-knowledge.php:31, templates/content-single-press.php:31, templates/content-single.php:43
+msgid "By"
+msgstr ""
+
+#: templates/content-blog-archive.php:114, templates/content-blog-archive.php:179, templates/content-knowledge-archive.php:101, templates/content-press-archive.php:180, templates/content-recipe-archive.php:95, templates/content-single-knowledge.php:43, templates/content-single-press.php:43, templates/content-single.php:55
+msgid "0"
+msgstr ""
+
+#: templates/content-blog-archive.php:114, templates/content-blog-archive.php:179, templates/content-knowledge-archive.php:101, templates/content-press-archive.php:180, templates/content-recipe-archive.php:95, templates/content-single-knowledge.php:43, templates/content-single-press.php:43, templates/content-single.php:55, inc/admin/functions.php:213
+msgid "1"
+msgstr ""
+
+#: templates/content-blog-archive.php:114, templates/content-blog-archive.php:179, templates/content-knowledge-archive.php:101, templates/content-press-archive.php:180, templates/content-recipe-archive.php:95, templates/content-single-knowledge.php:43, templates/content-single-press.php:43, templates/content-single.php:55
+msgid "%"
+msgstr ""
+
+#: templates/content-blog-archive.php:132
+msgid "Featured"
+msgstr ""
+
+#: templates/content-blog-archive.php:150, templates/content-gallery-grid-2.php:55, templates/content-gallery-slide.php:53, templates/content-page.php:6, templates/content-recipe-archive.php:111, templates/content-search-result.php:80, templates/content-single-knowledge.php:64, templates/content-single-press.php:64, templates/content-single-recipe.php:48, templates/content-single.php:76
+msgid "Pages:"
+msgstr ""
+
+#: templates/content-blog-archive.php:154, templates/content-gallery-grid-2.php:59, templates/content-gallery-slide.php:57, templates/content-page.php:10, templates/content-recipe-archive.php:115, templates/content-search-result.php:84, templates/content-single-knowledge.php:68, templates/content-single-press.php:68, templates/content-single-recipe.php:52, templates/content-single.php:80, inc/functions/layout.php:1675, inc/functions/layout.php:1879
+msgid "Page"
+msgstr ""
+
+#: templates/content-blog-archive.php:199, templates/content-gallery-slide.php:64, templates/content-recipe-archive.php:122, inc/functions/woocommerce.php:515
+msgid "Read more"
+msgstr ""
+
+#: templates/content-blog-archive.php:246, templates/content-recipe-archive.php:161
+msgid "Load More"
+msgstr ""
+
+#: templates/content-blog-archive.php:231, templates/content-knowledge-archive.php:141, templates/content-press-archive.php:223
+msgid " Newer Posts"
+msgstr ""
+
+#: templates/content-blog-archive.php:234, templates/content-knowledge-archive.php:144, templates/content-press-archive.php:226
+msgid "Older Posts "
+msgstr ""
+
+#: templates/content-gallery-grid-2.php:34, templates/content-gallery-grid.php:35, templates/content-gallery-masonry.php:46, templates/content-gallery-masonry_s1.php:122, templates/content-gallery-packery-2.php:53, templates/content-gallery-packery-3.php:54, templates/content-gallery-packery.php:56, templates/content-gallery-slide.php:34, inc/functions/functions.php:62
+msgid "gallery"
+msgstr ""
+
+#: templates/content-gallery-grid-2.php:66
+msgid "Read More"
+msgstr ""
+
+#: templates/content-knowledge-archive.php:60
+msgid "knowledge"
+msgstr ""
+
+#: templates/content-knowledge-archive.php:156, templates/content-press-archive.php:238, inc/functions/taxonomy_metabox.php:970, inc/functions/taxonomy_metabox.php:1264, inc/functions/taxonomy_metabox.php:1421, inc/functions/taxonomy_metabox.php:1563, inc/admin/settings/settings.php:1536, inc/admin/settings/settings.php:1935, inc/admin/settings/settings.php:2122, inc/admin/settings/settings.php:2288
+msgid "Load more"
+msgstr ""
+
+#: templates/content-press-archive.php:144, templates/content-press-archive.php:128, templates/content-press-archive.php:122, inc/admin/settings/settings.php:2166
+msgid "Press Media"
+msgstr ""
+
+#: templates/content-recipe-archive.php:54, templates/content-single-knowledge.php:12, templates/content-single-press.php:12, templates/content-single-recipe.php:41
+msgid "recipe"
+msgstr ""
+
+#: templates/content-recipe-archive.php:69, templates/content-single-recipe.php:16
+msgid "Recipe by"
+msgstr ""
+
+#: templates/content-recipe-archive.php:76
+msgid "mins"
+msgstr ""
+
+#: templates/content-search-result.php:105
+msgid "View More"
+msgstr ""
+
+#: templates/content-single-gallery.php:26
+msgid " Previous Project"
+msgstr ""
+
+#: templates/content-single-gallery.php:30
+msgid " Next Project"
+msgstr ""
+
+#: templates/content-single-gallery.php:106
+msgid "Category"
+msgstr ""
+
+#: templates/content-single-gallery.php:109, woocommerce/classes/class-wc-widget-products.php:55, woocommerce/myaccount/my-orders.php:14, inc/admin/settings/settings.php:1550, inc/admin/settings/settings.php:1572, inc/admin/settings/settings.php:1949, inc/admin/settings/settings.php:2136, inc/admin/settings/settings.php:2302
+msgid "Date"
+msgstr ""
+
+#: templates/content-single-gallery.php:113, templates/content-single-recipe.php:69, templates/content-single-recipe.php:183, inc/functions/functions.php:664, inc/admin/settings/settings.php:1969
+msgid "Share"
+msgstr ""
+
+#: templates/content-single-gallery.php:135
+msgid "Other Works"
+msgstr ""
+
+#: templates/content-single-recipe.php:61
+msgid "I made it"
+msgstr ""
+
+#: templates/content-single-recipe.php:65
+msgid "Rate it"
+msgstr ""
+
+#: templates/content-single-recipe.php:86
+msgid "Ingredients"
+msgstr ""
+
+#: templates/content-single-recipe.php:97, inc/admin/metabox/class_recipe_metabox.php:30, inc/functions/metaboxes/recipe.php:16
+msgid "Time"
+msgstr ""
+
+#: templates/content-single-recipe.php:98
+msgid "%s m"
+msgstr ""
+
+#: templates/content-single-recipe.php:109
+msgid "%s servings"
+msgstr ""
+
+#: templates/content-single-recipe.php:118, inc/admin/metabox/class_recipe_metabox.php:41, inc/functions/metaboxes/recipe.php:27
+msgid "Cals"
+msgstr ""
+
+#: templates/content-single-recipe.php:119
+msgid "%s cals"
+msgstr ""
+
+#: templates/content-single-recipe.php:137
+msgid "Directions"
+msgstr ""
+
+#: templates/content-single-recipe.php:141, templates/content-single-recipe.php:207, inc/admin/settings/settings.php:1970
+msgid "Print"
+msgstr ""
+
+#: templates/content-single-recipe.php:146
+msgid "Watch Video"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:17
+msgid "Add wishlist"
+msgstr ""
+
+#: woocommerce/add-to-wishlist.php:40, woocommerce/add-to-wishlist.php:26, woocommerce/add-to-wishlist.php:32
+msgid "wishlist"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "placeholder"
+msgid "Enter keyword & hit enter to search&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:35, inc/admin/settings/settings.php:2612
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:33
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75, inc/admin/settings/settings.php:1071
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78, inc/functions/functions.php:1153
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98, woocommerce/single-product-reviews.php:98
+msgid "Your Review*"
+msgstr ""
+
+#: inc/admin/functions.php:45
+msgid "Default Layout"
+msgstr ""
+
+#: inc/admin/functions.php:46, inc/admin/metabox/metabox.php:203, inc/admin/metabox/metabox.php:313, inc/admin/settings/settings.php:1803, inc/functions/metaboxes/page.php:36, inc/functions/metaboxes/portfolio.php:10, inc/functions/metaboxes/portfolio.php:26
+msgid "Wide"
+msgstr ""
+
+#: inc/admin/functions.php:47
+msgid "Full width"
+msgstr ""
+
+#: inc/admin/functions.php:48, inc/admin/metabox/metabox.php:205, inc/functions/metaboxes/page.php:38
+msgid "Boxed"
+msgstr ""
+
+#: inc/admin/functions.php:55, inc/admin/functions.php:123
+msgid "Default Position"
+msgstr ""
+
+#: inc/admin/functions.php:56, inc/admin/functions.php:201, inc/functions/vc_functions.php:211
+msgid "Left"
+msgstr ""
+
+#: inc/admin/functions.php:57, inc/admin/functions.php:203, inc/functions/vc_functions.php:212
+msgid "Right"
+msgstr ""
+
+#: inc/admin/functions.php:58, inc/functions/taxonomy_metabox.php:334, inc/functions/vc_functions.php:233
+msgid "None"
+msgstr ""
+
+#: inc/admin/functions.php:85
+msgid "Default Popup"
+msgstr ""
+
+#: inc/admin/functions.php:86
+msgid "Popup "
+msgstr ""
+
+#: inc/admin/functions.php:92
+msgid "Default Header"
+msgstr ""
+
+#: inc/admin/functions.php:93, inc/admin/settings/settings.php:3476
+msgid "Header Type 1"
+msgstr ""
+
+#: inc/admin/functions.php:94, inc/admin/settings/settings.php:3480
+msgid "Header Type 2"
+msgstr ""
+
+#: inc/admin/functions.php:95, inc/admin/settings/settings.php:3484
+msgid "Header Type 3"
+msgstr ""
+
+#: inc/admin/functions.php:96, inc/admin/settings/settings.php:3488
+msgid "Header Type 4"
+msgstr ""
+
+#: inc/admin/functions.php:97, inc/admin/settings/settings.php:3492
+msgid "Header Type 5"
+msgstr ""
+
+#: inc/admin/functions.php:98, inc/admin/settings/settings.php:3496
+msgid "Header Type 6"
+msgstr ""
+
+#: inc/admin/functions.php:99, inc/admin/settings/settings.php:3500
+msgid "Header Type 7"
+msgstr ""
+
+#: inc/admin/functions.php:100, inc/admin/settings/settings.php:3504
+msgid "Header Type 8"
+msgstr ""
+
+#: inc/admin/functions.php:101, inc/admin/settings/settings.php:3508
+msgid "Header Type 9"
+msgstr ""
+
+#: inc/admin/functions.php:124, inc/admin/settings/settings.php:3391
+msgid "Top"
+msgstr ""
+
+#: inc/admin/functions.php:125, inc/admin/settings/settings.php:3392
+msgid "Bottom"
+msgstr ""
+
+#: inc/admin/functions.php:131
+msgid "Default Preload"
+msgstr ""
+
+#: inc/admin/functions.php:132, inc/admin/settings/settings.php:3538
+msgid "Preload Type 1"
+msgstr ""
+
+#: inc/admin/functions.php:133, inc/admin/settings/settings.php:3542
+msgid "Preload Type 2"
+msgstr ""
+
+#: inc/admin/functions.php:134, inc/admin/settings/settings.php:3546
+msgid "Preload Type 3"
+msgstr ""
+
+#: inc/admin/functions.php:135, inc/admin/settings/settings.php:3550
+msgid "Preload Type 4"
+msgstr ""
+
+#: inc/admin/functions.php:136, inc/admin/settings/settings.php:3554
+msgid "Preload Type 5"
+msgstr ""
+
+#: inc/admin/functions.php:137, inc/admin/settings/settings.php:3558
+msgid "Preload Type 6"
+msgstr ""
+
+#: inc/admin/functions.php:138, inc/admin/settings/settings.php:3562
+msgid "Preload Type 7"
+msgstr ""
+
+#: inc/admin/functions.php:139, inc/admin/settings/settings.php:3566
+msgid "Preload Type 8"
+msgstr ""
+
+#: inc/admin/functions.php:140, inc/admin/settings/settings.php:3570
+msgid "Preload Type 9"
+msgstr ""
+
+#: inc/admin/functions.php:156
+msgid "Default Footer"
+msgstr ""
+
+#: inc/admin/functions.php:157, inc/admin/settings/settings.php:3517
+msgid "Footer Type 1"
+msgstr ""
+
+#: inc/admin/functions.php:158, inc/admin/settings/settings.php:3521
+msgid "Footer Type 2"
+msgstr ""
+
+#: inc/admin/functions.php:159, inc/admin/settings/settings.php:3525
+msgid "Footer Type 3"
+msgstr ""
+
+#: inc/admin/functions.php:160, inc/admin/settings/settings.php:3529
+msgid "Footer Type 4"
+msgstr ""
+
+#: inc/admin/functions.php:166, inc/admin/functions.php:219, inc/admin/functions.php:245, inc/admin/functions.php:284, inc/admin/functions.php:299, inc/admin/functions.php:313
+msgid "Grid"
+msgstr ""
+
+#: inc/admin/functions.php:167, inc/admin/functions.php:220, inc/admin/functions.php:283, inc/admin/functions.php:298
+msgid "List"
+msgstr ""
+
+#: inc/admin/functions.php:168, inc/admin/functions.php:246, inc/admin/functions.php:314
+msgid "Masonry"
+msgstr ""
+
+#: inc/admin/functions.php:169
+msgid "Packery"
+msgstr ""
+
+#: inc/admin/functions.php:175
+msgid "Single 1"
+msgstr ""
+
+#: inc/admin/functions.php:176
+msgid "Single 2"
+msgstr ""
+
+#: inc/admin/functions.php:177
+msgid "Single 3"
+msgstr ""
+
+#: inc/admin/functions.php:178
+msgid "Single 4"
+msgstr ""
+
+#: inc/admin/functions.php:184
+msgid "3 Columns"
+msgstr ""
+
+#: inc/admin/functions.php:185
+msgid "1 Column"
+msgstr ""
+
+#: inc/admin/functions.php:186
+msgid "2 Columns"
+msgstr ""
+
+#: inc/admin/functions.php:187
+msgid "4 Columns"
+msgstr ""
+
+#: inc/admin/functions.php:193
+msgid "Type 1"
+msgstr ""
+
+#: inc/admin/functions.php:194
+msgid "Type 2"
+msgstr ""
+
+#: inc/admin/functions.php:195
+msgid "Type 3"
+msgstr ""
+
+#: inc/admin/functions.php:202, inc/functions/vc_functions.php:213
+msgid "Center"
+msgstr ""
+
+#: inc/admin/functions.php:209, inc/admin/functions.php:239, inc/functions/vc_functions.php:336
+msgid "5"
+msgstr ""
+
+#: inc/admin/functions.php:210, inc/admin/functions.php:230, inc/admin/functions.php:238, inc/admin/functions.php:277, inc/admin/functions.php:292, inc/admin/functions.php:307, inc/functions/vc_functions.php:335, inc/functions/metaboxes/products.php:103
+msgid "4"
+msgstr ""
+
+#: inc/admin/functions.php:211, inc/admin/functions.php:229, inc/admin/functions.php:236, inc/admin/functions.php:275, inc/admin/functions.php:290, inc/admin/functions.php:305, inc/functions/vc_functions.php:334, inc/functions/metaboxes/products.php:102
+msgid "3"
+msgstr ""
+
+#: inc/admin/functions.php:212, inc/admin/functions.php:228, inc/admin/functions.php:237, inc/admin/functions.php:276, inc/admin/functions.php:291, inc/admin/functions.php:306, inc/functions/vc_functions.php:333, inc/functions/metaboxes/products.php:101
+msgid "2"
+msgstr ""
+
+#: inc/admin/functions.php:252
+msgid "Style 1"
+msgstr ""
+
+#: inc/admin/functions.php:253, inc/admin/settings/settings.php:3376
+msgid "Style 2"
+msgstr ""
+
+#: inc/admin/plugins-require.php:62
+msgid "WP Store Locator"
+msgstr ""
+
+#: inc/admin/plugins-require.php:69
+msgid "YITH WooCommerce Ajax Product Filter"
+msgstr ""
+
+#: inc/admin/plugins-require.php:83
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/admin/plugins-require.php:165
+msgid "Redux Settings"
+msgstr ""
+
+#: inc/admin/plugins-require.php:166
+msgid "Import Redux Setting"
+msgstr ""
+
+#: inc/admin/user-profile.php:6
+msgid "Extra profile information"
+msgstr ""
+
+#: inc/admin/user-profile.php:9
+msgid "Occupation"
+msgstr ""
+
+#: inc/admin/user-profile.php:15
+msgid "Please enter your occupation."
+msgstr ""
+
+#: inc/admin/user-profile.php:20
+msgid "User Avatar (square image recommended)"
+msgstr ""
+
+#: inc/admin/user-profile.php:28, inc/functions/taxonomy_metabox.php:479, inc/functions/taxonomy_metabox.php:610
+msgid "Upload Image"
+msgstr ""
+
+#: inc/admin/user-profile.php:30, inc/functions/taxonomy_metabox.php:480, inc/functions/taxonomy_metabox.php:611, inc/functions/metaboxes/gallery.php:67
+msgid "Remove Image"
+msgstr ""
+
+#: inc/functions/functions.php:1031
+msgid " Read More"
+msgstr ""
+
+#: inc/functions/functions.php:1040
+msgid "ago"
+msgstr ""
+
+#: inc/functions/functions.php:1103
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions/functions.php:1108
+msgid "%s"
+msgstr ""
+
+#: inc/functions/functions.php:1113
+msgid "%1$s"
+msgstr ""
+
+#: inc/functions/functions.php:1350
+msgid "Rating"
+msgstr ""
+
+#: inc/functions/layout.php:11
+msgctxt "placeholder"
+msgid "Enter keyword"
+msgstr ""
+
+#: inc/functions/layout.php:47, inc/functions/layout.php:35
+msgctxt "placeholder"
+msgid "What is cooking today?"
+msgstr ""
+
+#: inc/functions/layout.php:51, inc/functions/layout.php:39, inc/functions/layout.php:86, inc/functions/layout.php:127
+msgid "Search"
+msgstr ""
+
+#: inc/functions/layout.php:163
+msgid "item(s)"
+msgstr ""
+
+#: inc/functions/layout.php:170
+msgid "You have <span class=\"cart_nu_count2\"> %s </span> item(s) in your cart"
+msgstr ""
+
+#: inc/functions/layout.php:1289, inc/functions/layout.php:1699
+msgid "Home"
+msgstr ""
+
+#: inc/functions/layout.php:1670, inc/functions/layout.php:1874
+msgid "Author:"
+msgstr ""
+
+#: inc/functions/layout.php:1665, inc/functions/layout.php:1869
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: inc/functions/layout.php:1661, inc/functions/layout.php:1468, inc/functions/layout.php:1334, inc/functions/layout.php:1865, inc/functions/layout.php:1773, inc/functions/layout.php:1718
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: inc/functions/layout.php:1613, inc/functions/layout.php:1841
+msgid "Error 404"
+msgstr ""
+
+#: inc/functions/layout.php:1380
+msgid "Recipes tagged &ldquo;"
+msgstr ""
+
+#: inc/functions/layout.php:1357, inc/functions/layout.php:1749
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: inc/functions/layout.php:1815
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/functions/layout.php:1761
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/functions/layout.php:1761
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/functions/layout.php:1757
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/functions/layout.php:1757
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/functions/layout.php:1753
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/functions/menus.php:62, inc/functions/taxonomy_metabox.php:832
+msgid "2 columns"
+msgstr ""
+
+#: inc/functions/menus.php:63, inc/functions/taxonomy_metabox.php:830
+msgid "3 columns"
+msgstr ""
+
+#: inc/functions/menus.php:64, inc/functions/taxonomy_metabox.php:833
+msgid "4 columns"
+msgstr ""
+
+#: inc/functions/menus.php:65, inc/functions/taxonomy_metabox.php:834
+msgid "5 columns"
+msgstr ""
+
+#: inc/functions/menus.php:66
+msgid "6 columns"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: inc/functions/menus.php:116
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/functions/menus.php:112
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/functions/menus.php:129
+msgid "sub item"
+msgstr ""
+
+#: inc/functions/menus.php:144
+msgid "Move up"
+msgstr ""
+
+#: inc/functions/menus.php:157
+msgid "Move down"
+msgstr ""
+
+#: inc/functions/menus.php:159, inc/functions/menus.php:161
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/functions/menus.php:170
+msgid "URL"
+msgstr ""
+
+#: inc/functions/menus.php:177
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/functions/menus.php:183
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/functions/menus.php:190
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/functions/menus.php:202
+msgid "Input icon class. You can see <a target=\"_blank\" href=\"http://fortawesome.github.io/Font-Awesome/icons/\">Font Awesome Icons</a>, <a target=\"_blank\" href=\"https://linearicons.com/free\">Linearicons </a>, <a target=\"_blank\" href=\"http://themes-pixeden.com/font-demos/7-stroke/\">Pe stroke icon7 </a>. For example: fa fa-picture-o"
+msgstr ""
+
+#: inc/functions/menus.php:243
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/functions/menus.php:249
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/functions/menus.php:255, inc/admin/metabox/class_recipe_metabox.php:20, inc/admin/settings/settings.php:2618, inc/functions/metaboxes/recipe.php:6
+msgid "Description"
+msgstr ""
+
+#: inc/functions/menus.php:257
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: inc/functions/menus.php:275
+msgid "Mega menu"
+msgstr ""
+
+#: inc/functions/menus.php:281
+msgid "Display number of panel columns"
+msgstr ""
+
+#: inc/functions/menus.php:295
+msgid "Block 1 Name"
+msgstr ""
+
+#: inc/functions/menus.php:306
+msgid "Block 2 Name "
+msgstr ""
+
+#: inc/functions/menus.php:328
+msgid "Item Columns(depend on parent panel columns)"
+msgstr ""
+
+#: inc/functions/menus.php:346
+msgid "Move"
+msgstr ""
+
+#: inc/functions/menus.php:347
+msgid "Up one"
+msgstr ""
+
+#: inc/functions/menus.php:348
+msgid "Down one"
+msgstr ""
+
+#: inc/functions/menus.php:351
+msgid "To the top"
+msgstr ""
+
+#: inc/functions/menus.php:358
+msgid "Original: %s"
+msgstr ""
+
+#: inc/functions/menus.php:371, woocommerce/cart/cart.php:55
+msgid "Remove"
+msgstr ""
+
+#: inc/functions/menus.php:372, woocommerce/myaccount/my-orders.php:81
+msgid "Cancel"
+msgstr ""
+
+#: inc/functions/sidebars.php:7
+msgid "General Sidebar"
+msgstr ""
+
+#: inc/functions/sidebars.php:15
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/functions/sidebars.php:23
+msgid "Recipe Sidebar"
+msgstr ""
+
+#: inc/functions/sidebars.php:31
+msgid "Knowledge Sidebar"
+msgstr ""
+
+#: inc/functions/sidebars.php:39
+msgid "Press Media Sidebar"
+msgstr ""
+
+#: inc/functions/sidebars.php:47
+msgid "Footer Newsletter"
+msgstr ""
+
+#: inc/functions/sidebars.php:55
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/functions/sidebars.php:63
+msgid "Footer Widget 1"
+msgstr ""
+
+#: inc/functions/sidebars.php:72
+msgid "Footer Widget 2"
+msgstr ""
+
+#: inc/functions/sidebars.php:81
+msgid "Footer Widget 3"
+msgstr ""
+
+#: inc/functions/sidebars.php:90
+msgid "Footer Widget 4"
+msgstr ""
+
+#: inc/functions/sidebars.php:98
+msgid "Footer 3 Widget 1"
+msgstr ""
+
+#: inc/functions/sidebars.php:107
+msgid "Footer 3 Widget 2"
+msgstr ""
+
+#: inc/functions/sidebars.php:116
+msgid "Footer 3 Widget 3"
+msgstr ""
+
+#: inc/functions/sidebars.php:124
+msgid "Footer 3 Widget 4"
+msgstr ""
+
+#: inc/functions/sidebars.php:132
+msgid "Footer 4 Widget 1"
+msgstr ""
+
+#: inc/functions/sidebars.php:140
+msgid "Footer 4 Widget 2"
+msgstr ""
+
+#: inc/functions/sidebars.php:148
+msgid "Footer 4 Widget 3"
+msgstr ""
+
+#: inc/functions/sidebars.php:158
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/functions/sidebars.php:167
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:333
+msgid "Default sidebar"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:774, inc/functions/taxonomy_metabox.php:937, inc/functions/taxonomy_metabox.php:1231, inc/functions/taxonomy_metabox.php:1388, inc/functions/taxonomy_metabox.php:1530, inc/admin/metabox/metabox.php:65, inc/admin/settings/settings.php:302, inc/functions/metaboxes/default_options.php:52
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:775, inc/functions/taxonomy_metabox.php:938, inc/functions/taxonomy_metabox.php:1232, inc/functions/taxonomy_metabox.php:1389, inc/functions/taxonomy_metabox.php:1531, inc/admin/metabox/metabox.php:66, inc/functions/metaboxes/default_options.php:53
+msgid "Hide breadcrumbs"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:780, inc/functions/taxonomy_metabox.php:930, inc/functions/taxonomy_metabox.php:1224, inc/functions/taxonomy_metabox.php:1381, inc/functions/taxonomy_metabox.php:1523, inc/admin/metabox/metabox.php:86, inc/admin/settings/settings.php:1469, inc/functions/metaboxes/default_options.php:71
+msgid "Page Title"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:781, inc/functions/taxonomy_metabox.php:931, inc/functions/taxonomy_metabox.php:1225, inc/functions/taxonomy_metabox.php:1382, inc/functions/taxonomy_metabox.php:1524, inc/admin/metabox/metabox.php:87, inc/functions/metaboxes/default_options.php:72
+msgid "Hide Page Title"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:786, inc/functions/taxonomy_metabox.php:943, inc/functions/taxonomy_metabox.php:1237, inc/functions/taxonomy_metabox.php:1394, inc/functions/taxonomy_metabox.php:1536, inc/admin/metabox/metabox.php:93, inc/admin/settings/settings.php:2838, inc/functions/metaboxes/default_options.php:77
+msgid "Header"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:787, inc/functions/taxonomy_metabox.php:944, inc/functions/taxonomy_metabox.php:1238, inc/functions/taxonomy_metabox.php:1395, inc/functions/taxonomy_metabox.php:1537, inc/admin/metabox/metabox.php:94, inc/functions/metaboxes/default_options.php:78
+msgid "Hide header"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:793, inc/functions/taxonomy_metabox.php:979, inc/functions/taxonomy_metabox.php:1273, inc/functions/taxonomy_metabox.php:1430, inc/functions/taxonomy_metabox.php:1572, inc/admin/metabox/metabox.php:100, inc/admin/settings/settings.php:994, inc/functions/metaboxes/default_options.php:84
+msgid "Footer"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:794, inc/functions/taxonomy_metabox.php:980, inc/functions/taxonomy_metabox.php:1274, inc/functions/taxonomy_metabox.php:1431, inc/functions/taxonomy_metabox.php:1573, inc/admin/metabox/metabox.php:101, inc/functions/metaboxes/default_options.php:85
+msgid "Hide footer"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:801, inc/functions/taxonomy_metabox.php:987, inc/functions/taxonomy_metabox.php:1062, inc/functions/taxonomy_metabox.php:1281, inc/functions/taxonomy_metabox.php:1438, inc/functions/taxonomy_metabox.php:1580, inc/admin/metabox/metabox.php:108, inc/functions/metaboxes/default_options.php:92, inc/functions/metaboxes/products.php:76
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:808, inc/functions/taxonomy_metabox.php:994, inc/functions/taxonomy_metabox.php:1069, inc/functions/taxonomy_metabox.php:1288, inc/functions/taxonomy_metabox.php:1445, inc/functions/taxonomy_metabox.php:1587, inc/admin/metabox/metabox.php:115, inc/functions/metaboxes/default_options.php:99, inc/functions/metaboxes/products.php:83
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:815, inc/admin/settings/settings.php:2432
+msgid "Products per Page"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:820
+msgid "List mode"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:827
+msgid "Number of grid column"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:831
+msgid "1 columns"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:835, inc/functions/taxonomy_metabox.php:889, inc/functions/taxonomy_metabox.php:890, inc/functions/taxonomy_metabox.php:969, inc/functions/taxonomy_metabox.php:1078, inc/functions/taxonomy_metabox.php:1096, inc/functions/taxonomy_metabox.php:1121, inc/functions/taxonomy_metabox.php:1183, inc/functions/taxonomy_metabox.php:1184, inc/functions/taxonomy_metabox.php:1263, inc/functions/taxonomy_metabox.php:1341, inc/functions/taxonomy_metabox.php:1420, inc/functions/taxonomy_metabox.php:1483, inc/functions/taxonomy_metabox.php:1562, inc/functions/vc_functions.php:332, inc/functions/vc_functions.php:396, inc/admin/metabox/metabox.php:202, inc/admin/metabox/metabox.php:312, inc/admin/settings/settings.php:3375, inc/functions/metaboxes/page.php:35, inc/functions/metaboxes/portfolio.php:9, inc/functions/metaboxes/portfolio.php:25, inc/functions/metaboxes/products.php:100, inc/functions/metaboxes/recipe.php:57, inc/functions/metaboxes/recipe.php:72
+msgid "Default"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:898, inc/functions/taxonomy_metabox.php:1192, inc/functions/taxonomy_metabox.php:1349, inc/functions/taxonomy_metabox.php:1491, inc/admin/metabox/metabox.php:42, inc/functions/metaboxes/default_options.php:29, inc/functions/metaboxes/products.php:60
+msgid "Header Layout"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:906, inc/functions/taxonomy_metabox.php:1200, inc/functions/taxonomy_metabox.php:1357, inc/functions/taxonomy_metabox.php:1499, inc/admin/metabox/metabox.php:57, inc/functions/metaboxes/default_options.php:44, inc/functions/metaboxes/products.php:68
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:913, inc/functions/taxonomy_metabox.php:1207, inc/functions/taxonomy_metabox.php:1364, inc/functions/taxonomy_metabox.php:1506
+msgid "Select Top Banner"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:914, inc/functions/taxonomy_metabox.php:1208, inc/functions/taxonomy_metabox.php:1365, inc/functions/taxonomy_metabox.php:1507
+msgid "Choose a block to display at the top of pages (after header). You should create a block in Static Block/Add New"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:921, inc/functions/taxonomy_metabox.php:1215, inc/functions/taxonomy_metabox.php:1372, inc/functions/taxonomy_metabox.php:1514, inc/admin/metabox/metabox.php:161, inc/functions/metaboxes/default_options.php:145
+msgid "Select Bottom Banner"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:922, inc/functions/taxonomy_metabox.php:1216, inc/functions/taxonomy_metabox.php:1373, inc/functions/taxonomy_metabox.php:1515, inc/admin/metabox/metabox.php:162, inc/functions/metaboxes/default_options.php:146
+msgid "Choose a block to display at the bottom of pages. You can create a block in Static Block/Add New."
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:949
+msgid "knowledge layout"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:950
+msgid "Select knowledge layout"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:957
+msgid "knowledge columns"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:958
+msgid "Select knowledge columns"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:965, inc/functions/taxonomy_metabox.php:1259, inc/functions/taxonomy_metabox.php:1416, inc/functions/taxonomy_metabox.php:1558, inc/admin/settings/settings.php:1534, inc/admin/settings/settings.php:1933, inc/admin/settings/settings.php:2120, inc/admin/settings/settings.php:2286
+msgid "Pagination type"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:966
+msgid "Select knowledge pagination"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:971, inc/functions/taxonomy_metabox.php:1265, inc/functions/taxonomy_metabox.php:1422, inc/functions/taxonomy_metabox.php:1564, inc/admin/settings/settings.php:1537, inc/admin/settings/settings.php:1936, inc/admin/settings/settings.php:2123, inc/admin/settings/settings.php:2289
+msgid "Next/Prev"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:972, inc/functions/taxonomy_metabox.php:1266, inc/functions/taxonomy_metabox.php:1423, inc/functions/taxonomy_metabox.php:1565, inc/admin/settings/settings.php:1538, inc/admin/settings/settings.php:1937, inc/admin/settings/settings.php:2124, inc/admin/settings/settings.php:2290
+msgid "Number"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1054, inc/functions/vc_functions.php:436, inc/admin/metabox/metabox.php:122, inc/admin/settings/settings.php:43, inc/admin/settings/settings.php:48, inc/admin/settings/settings.php:1475, inc/admin/settings/settings.php:1874, inc/admin/settings/settings.php:2069, inc/admin/settings/settings.php:2226, inc/admin/settings/settings.php:2402, inc/admin/settings/settings.php:2534, inc/functions/metaboxes/default_options.php:106, inc/functions/metaboxes/products.php:90
+msgid "Layout"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1076
+msgid "Gallery filter"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1079, inc/functions/taxonomy_metabox.php:1122, inc/functions/vc_functions.php:275, inc/functions/vc_functions.php:282, inc/functions/vc_functions.php:295, inc/functions/vc_functions.php:303, inc/functions/vc_functions.php:317, inc/admin/settings/settings.php:128, inc/admin/settings/settings.php:1043, inc/admin/settings/settings.php:1079, inc/admin/settings/settings.php:1714, inc/admin/settings/settings.php:1750, inc/admin/settings/settings.php:1897, inc/admin/settings/settings.php:2000, inc/admin/settings/settings.php:2280, inc/admin/settings/settings.php:2347, inc/admin/settings/settings.php:2368, inc/admin/settings/settings.php:2376, inc/admin/settings/settings.php:2384, inc/admin/settings/settings.php:2425, inc/admin/settings/settings.php:2462, inc/admin/settings/settings.php:2470, inc/admin/settings/settings.php:2478, inc/admin/settings/settings.php:2486, inc/admin/settings/settings.php:2495, inc/admin/settings/settings.php:2504, inc/admin/settings/settings.php:2513, inc/admin/settings/settings.php:2521, inc/admin/settings/settings.php:2557, inc/admin/settings/settings.php:2565, inc/admin/settings/settings.php:2573, inc/admin/settings/settings.php:2581, inc/admin/settings/settings.php:2589, inc/admin/settings/settings.php:2597, inc/admin/settings/settings.php:2605, inc/admin/settings/settings.php:2696, inc/admin/settings/settings.php:2712, inc/admin/settings/settings.php:2777, inc/admin/settings/settings.php:2816
+msgid "Yes"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1080, inc/functions/taxonomy_metabox.php:1123, inc/admin/settings/settings.php:129, inc/admin/settings/settings.php:1044, inc/admin/settings/settings.php:1080, inc/admin/settings/settings.php:1715, inc/admin/settings/settings.php:1751, inc/admin/settings/settings.php:1898, inc/admin/settings/settings.php:2001, inc/admin/settings/settings.php:2281, inc/admin/settings/settings.php:2348, inc/admin/settings/settings.php:2369, inc/admin/settings/settings.php:2377, inc/admin/settings/settings.php:2385, inc/admin/settings/settings.php:2426, inc/admin/settings/settings.php:2463, inc/admin/settings/settings.php:2471, inc/admin/settings/settings.php:2479, inc/admin/settings/settings.php:2487, inc/admin/settings/settings.php:2496, inc/admin/settings/settings.php:2505, inc/admin/settings/settings.php:2514, inc/admin/settings/settings.php:2522, inc/admin/settings/settings.php:2558, inc/admin/settings/settings.php:2566, inc/admin/settings/settings.php:2574, inc/admin/settings/settings.php:2582, inc/admin/settings/settings.php:2590, inc/admin/settings/settings.php:2598, inc/admin/settings/settings.php:2606, inc/admin/settings/settings.php:2697, inc/admin/settings/settings.php:2713, inc/admin/settings/settings.php:2778, inc/admin/settings/settings.php:2817
+msgid "No"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1087
+msgid "Gallery Layouts"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1094
+msgid "Gallery loadmore style"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1097, inc/admin/settings/settings.php:1772
+msgid "Button style 1"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1098, inc/admin/settings/settings.php:1773
+msgid "Button style 2"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1105
+msgid "Gallery columns"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1112
+msgid "Gallery Style"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1119
+msgid "Remove Space Items"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1130, inc/admin/settings/settings.php:1518, inc/admin/settings/settings.php:1780
+msgid "Post show per page"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1243
+msgid "Press layout"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1244
+msgid "Select press layout"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1251
+msgid "Press columns"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1252
+msgid "Select press columns"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1260
+msgid "Select press pagination"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1400
+msgid "Recipe layout"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1401
+msgid "Select recipe layout"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1408
+msgid "Recipe columns"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1409
+msgid "Select recipe columns"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1417
+msgid "Select recipe pagination"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1542
+msgid "Blog layout"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1543
+msgid "Select blog layout"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1550
+msgid "Blog columns"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1551
+msgid "Select blog columns"
+msgstr ""
+
+#: inc/functions/taxonomy_metabox.php:1559
+msgid "Select blog pagination"
+msgstr ""
+
+#: inc/functions/vc_functions.php:81
+msgid "Icon library"
+msgstr ""
+
+#: inc/functions/vc_functions.php:83
+msgid "Font Awesome"
+msgstr ""
+
+#: inc/functions/vc_functions.php:84
+msgid "Stroke Icons 7"
+msgstr ""
+
+#: inc/functions/vc_functions.php:85
+msgid "Apr Icon"
+msgstr ""
+
+#: inc/functions/vc_functions.php:86
+msgid "Open Iconic"
+msgstr ""
+
+#: inc/functions/vc_functions.php:87
+msgid "Typicons"
+msgstr ""
+
+#: inc/functions/vc_functions.php:88
+msgid "Entypo"
+msgstr ""
+
+#: inc/functions/vc_functions.php:89
+msgid "Linecons"
+msgstr ""
+
+#: inc/functions/vc_functions.php:94
+msgid "Select icon library."
+msgstr ""
+
+#: inc/functions/vc_functions.php:98, inc/functions/vc_functions.php:114, inc/functions/vc_functions.php:130, inc/functions/vc_functions.php:145, inc/functions/vc_functions.php:161, inc/functions/vc_functions.php:177, inc/functions/vc_functions.php:192
+msgid "Icon"
+msgstr ""
+
+#: inc/functions/vc_functions.php:110, inc/functions/vc_functions.php:126, inc/functions/vc_functions.php:141, inc/functions/vc_functions.php:157, inc/functions/vc_functions.php:173, inc/functions/vc_functions.php:204
+msgid "Select icon from library."
+msgstr ""
+
+#: inc/functions/vc_functions.php:208
+msgid "Icon alignment"
+msgstr ""
+
+#: inc/functions/vc_functions.php:214
+msgid "Inline"
+msgstr ""
+
+#: inc/functions/vc_functions.php:216
+msgid "Select icon alignment."
+msgstr ""
+
+#: inc/functions/vc_functions.php:221
+msgid "Size"
+msgstr ""
+
+#: inc/functions/vc_functions.php:224
+msgid "Icon size (px)"
+msgstr ""
+
+#: inc/functions/vc_functions.php:230
+msgid "Border Style"
+msgstr ""
+
+#: inc/functions/vc_functions.php:234
+msgid "Solid"
+msgstr ""
+
+#: inc/functions/vc_functions.php:235
+msgid "Dashed"
+msgstr ""
+
+#: inc/functions/vc_functions.php:236
+msgid "Dotted"
+msgstr ""
+
+#: inc/functions/vc_functions.php:237
+msgid "Double"
+msgstr ""
+
+#: inc/functions/vc_functions.php:238
+msgid "Inset"
+msgstr ""
+
+#: inc/functions/vc_functions.php:239
+msgid "Outset"
+msgstr ""
+
+#: inc/functions/vc_functions.php:241
+msgid "Select the border style for icon."
+msgstr ""
+
+#: inc/functions/vc_functions.php:247
+msgid "Enable hover state for icon"
+msgstr ""
+
+#: inc/functions/vc_functions.php:256, inc/functions/vc_functions.php:259, inc/admin/metabox/metabox.php:284, inc/admin/metabox/metabox.php:297, inc/admin/metabox/metabox.php:343, inc/admin/settings/settings.php:1971, inc/functions/metaboxes/knowledge.php:7, inc/functions/metaboxes/post.php:16, inc/functions/metaboxes/press.php:13
+msgid "Content"
+msgstr ""
+
+#: inc/functions/vc_functions.php:258
+msgid "Enter your content."
+msgstr ""
+
+#: inc/functions/vc_functions.php:273
+msgid "Add overlay background"
+msgstr ""
+
+#: inc/functions/vc_functions.php:280
+msgid "Align inside element center horizontally and vertically"
+msgstr ""
+
+#: inc/functions/vc_functions.php:293, inc/functions/vc_functions.php:315
+msgid "Wrap inside column in container"
+msgstr ""
+
+#: inc/functions/vc_functions.php:301
+msgid "Hide background in mobile"
+msgstr ""
+
+#: inc/functions/vc_functions.php:329
+msgid "Number of columns"
+msgstr ""
+
+#: inc/functions/vc_functions.php:338
+msgid "Select number of columns to display images."
+msgstr ""
+
+#: inc/functions/vc_functions.php:339
+msgid "Column numbers"
+msgstr ""
+
+#: inc/functions/vc_functions.php:357
+msgid "Values"
+msgstr ""
+
+#: inc/functions/vc_functions.php:359
+msgid "Enter values for graph - value, title and color."
+msgstr ""
+
+#: inc/functions/vc_functions.php:362
+msgid "Development"
+msgstr ""
+
+#: inc/functions/vc_functions.php:366
+msgid "Design"
+msgstr ""
+
+#: inc/functions/vc_functions.php:370
+msgid "Marketing"
+msgstr ""
+
+#: inc/functions/vc_functions.php:379
+msgid "Label"
+msgstr ""
+
+#: inc/functions/vc_functions.php:381
+msgid "Enter text used as title of bar."
+msgstr ""
+
+#: inc/functions/vc_functions.php:386
+msgid "Value"
+msgstr ""
+
+#: inc/functions/vc_functions.php:388
+msgid "Enter value of bar."
+msgstr ""
+
+#: inc/functions/vc_functions.php:393
+msgid "Color"
+msgstr ""
+
+#: inc/functions/vc_functions.php:398
+msgid "Classic Grey"
+msgstr ""
+
+#: inc/functions/vc_functions.php:399
+msgid "Classic Blue"
+msgstr ""
+
+#: inc/functions/vc_functions.php:400
+msgid "Classic Turquoise"
+msgstr ""
+
+#: inc/functions/vc_functions.php:401
+msgid "Classic Green"
+msgstr ""
+
+#: inc/functions/vc_functions.php:402
+msgid "Classic Orange"
+msgstr ""
+
+#: inc/functions/vc_functions.php:403
+msgid "Classic Red"
+msgstr ""
+
+#: inc/functions/vc_functions.php:404
+msgid "Classic Black"
+msgstr ""
+
+#: inc/functions/vc_functions.php:406
+msgid "Custom Color"
+msgstr ""
+
+#: inc/functions/vc_functions.php:408
+msgid "Select single bar background color."
+msgstr ""
+
+#: inc/functions/vc_functions.php:414
+msgid "Custom color"
+msgstr ""
+
+#: inc/functions/vc_functions.php:416
+msgid "Select custom single bar background color."
+msgstr ""
+
+#: inc/functions/vc_functions.php:424
+msgid "Custom text color"
+msgstr ""
+
+#: inc/functions/vc_functions.php:426
+msgid "Select custom single bar text color."
+msgstr ""
+
+#: inc/functions/vc_functions.php:440, inc/functions/metaboxes/recipe.php:58, inc/functions/metaboxes/recipe.php:73
+msgid "Layout 1"
+msgstr ""
+
+#: inc/functions/vc_functions.php:441, inc/functions/metaboxes/recipe.php:59, inc/functions/metaboxes/recipe.php:74
+msgid "Layout 2"
+msgstr ""
+
+#: inc/functions/woocommerce.php:109, inc/functions/woocommerce.php:131
+msgid "compare"
+msgstr ""
+
+#: inc/functions/woocommerce.php:109, inc/functions/woocommerce.php:131
+msgid "Compare"
+msgstr ""
+
+#: inc/functions/woocommerce.php:122, inc/functions/woocommerce.php:119
+msgid "Availability:"
+msgstr ""
+
+#: inc/functions/woocommerce.php:122
+msgid "Out Stock"
+msgstr ""
+
+#: inc/functions/woocommerce.php:119
+msgid "In Stock & Ready to Ship"
+msgstr ""
+
+#: inc/functions/woocommerce.php:146
+msgid "Quick view"
+msgstr ""
+
+#: inc/functions/woocommerce.php:146, inc/functions/woocommerce.php:146
+msgid "Quick View"
+msgstr ""
+
+#: inc/functions/woocommerce.php:175
+msgid "Show "
+msgstr ""
+
+#: inc/functions/woocommerce.php:222, inc/functions/woocommerce.php:218
+msgid "Grid View"
+msgstr ""
+
+#: inc/functions/woocommerce.php:225, inc/functions/woocommerce.php:215
+msgid "List View"
+msgstr ""
+
+#: inc/functions/woocommerce.php:239
+msgid "Postcode / Zip *"
+msgstr ""
+
+#: inc/functions/woocommerce.php:245
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: inc/functions/woocommerce.php:252
+msgid "out of 5"
+msgstr ""
+
+#: inc/functions/woocommerce.php:344, inc/widgets/apr_ajax_search.php:103
+msgid "Placeholder"
+msgstr ""
+
+#: inc/functions/woocommerce.php:399
+msgid "Share this:"
+msgstr ""
+
+#: inc/functions/woocommerce.php:503
+msgid "Buy product"
+msgstr ""
+
+#: inc/functions/woocommerce.php:506
+msgid "View products"
+msgstr ""
+
+#: inc/functions/woocommerce.php:509
+msgid "Add to cart"
+msgstr ""
+
+#: inc/functions/woocommerce.php:512
+msgid "Select options"
+msgstr ""
+
+#: inc/functions/woocommerce.php:558, inc/functions/woocommerce.php:610
+msgid "First Name"
+msgstr ""
+
+#: inc/functions/woocommerce.php:559, inc/functions/woocommerce.php:611
+msgctxt "placeholder"
+msgid "First Name *"
+msgstr ""
+
+#: inc/functions/woocommerce.php:563, inc/functions/woocommerce.php:615
+msgid "Last Name"
+msgstr ""
+
+#: inc/functions/woocommerce.php:564, inc/functions/woocommerce.php:616
+msgctxt "placeholder"
+msgid "Last Name *"
+msgstr ""
+
+#: inc/functions/woocommerce.php:569, inc/functions/woocommerce.php:621
+msgctxt "placeholder"
+msgid "Company Name"
+msgstr ""
+
+#: inc/functions/woocommerce.php:575
+msgctxt "placeholder"
+msgid "Address"
+msgstr ""
+
+#: inc/functions/woocommerce.php:581
+msgctxt "placeholder"
+msgid "Enter Your Apartment"
+msgstr ""
+
+#: inc/functions/woocommerce.php:585, inc/functions/woocommerce.php:626
+msgid "City"
+msgstr ""
+
+#: inc/functions/woocommerce.php:586, inc/functions/woocommerce.php:627
+msgctxt "placeholder"
+msgid "City *"
+msgstr ""
+
+#: inc/functions/woocommerce.php:590, inc/functions/woocommerce.php:636
+msgid "Email Address"
+msgstr ""
+
+#: inc/functions/woocommerce.php:591, inc/functions/woocommerce.php:637
+msgctxt "placeholder"
+msgid "E-mail *"
+msgstr ""
+
+#: inc/functions/woocommerce.php:595, inc/functions/woocommerce.php:605, inc/admin/settings/settings.php:1064
+msgid "Phone"
+msgstr ""
+
+#: inc/functions/woocommerce.php:596
+msgctxt "placeholder"
+msgid "Phone *"
+msgstr ""
+
+#: inc/functions/woocommerce.php:600
+msgid "State / County"
+msgstr ""
+
+#: inc/functions/woocommerce.php:601
+msgctxt "placeholder"
+msgid "State / County"
+msgstr ""
+
+#: inc/functions/woocommerce.php:606
+msgctxt "placeholder"
+msgid "Phone Number *"
+msgstr ""
+
+#: inc/functions/woocommerce.php:620
+msgid "Company Name"
+msgstr ""
+
+#: inc/functions/woocommerce.php:631
+msgid "Enter State/Country"
+msgstr ""
+
+#: inc/functions/woocommerce.php:632
+msgctxt "placeholder"
+msgid "Enter State/Country"
+msgstr ""
+
+#: inc/functions/woocommerce.php:641
+msgid "Adress"
+msgstr ""
+
+#: inc/functions/woocommerce.php:642
+msgctxt "placeholder"
+msgid "Address *"
+msgstr ""
+
+#: inc/functions/woocommerce.php:647
+msgid "Order notes"
+msgstr ""
+
+#: inc/functions/woocommerce.php:648
+msgctxt "placeholder"
+msgid "Order Notes"
+msgstr ""
+
+#: inc/functions/woocommerce.php:664
+msgid "Popularity"
+msgstr ""
+
+#: inc/functions/woocommerce.php:668
+msgid "Average rating"
+msgstr ""
+
+#: inc/functions/woocommerce.php:672
+msgid "Newest"
+msgstr ""
+
+#: inc/functions/woocommerce.php:676
+msgid "Low to high"
+msgstr ""
+
+#: inc/functions/woocommerce.php:680
+msgid "High to low"
+msgstr ""
+
+#: inc/functions/wpml.php:34
+msgid "Languages"
+msgstr ""
+
+#: inc/functions/wpml.php:74
+msgid "en"
+msgstr ""
+
+#: inc/functions/wpml.php:78
+msgid "English"
+msgstr ""
+
+#: inc/functions/wpml.php:79
+msgid "French"
+msgstr ""
+
+#: inc/functions/wpml.php:81
+msgid "German"
+msgstr ""
+
+#: inc/widgets/apr_ajax_search.php:54
+msgctxt "placeholder"
+msgid "Enter keyword to search&hellip;"
+msgstr ""
+
+#: inc/widgets/apr_ajax_search.php:95
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/apr_ajax_search.php:111
+msgid "Button Text"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:29, woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30, woocommerce/cart/cart.php:37, woocommerce/cart/cart.php:113, woocommerce/myaccount/my-orders.php:16
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:35, woocommerce/cart/cart-totals.php:36
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:48, woocommerce/cart/cart-totals.php:49
+msgid "Grand Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:73
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:61
+msgid "Estimate"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:62
+msgid "Shipping & Tax"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:88
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34, woocommerce/cart/cart.php:63, woocommerce/cart/cart.php:73
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35, woocommerce/cart/cart.php:91, woocommerce/classes/class-wc-widget-products.php:56
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36, woocommerce/cart/cart.php:97
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:57
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:86
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:131
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:131
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:131
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:51
+msgid "You May Also Like"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-price-filter.php:101
+msgid "Min price"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-price-filter.php:102
+msgid "Max price"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-price-filter.php:106
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:23
+msgid "Display a list of your products on your site."
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:25
+msgid "WooCommerce Products"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:29, inc/shortcodes/templates/arrowpress_product_cate.php:164
+msgid "Products"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:30, woocommerce/classes/class-wc-widget-recent-reviews.php:30, woocommerce/classes/class-wc-widget-top-rated-products.php:32, woocommerce/classes/class.yith-wcan-reset-navigation-widget.php:103, woocommerce/classes/class.yith-woocompare-widget.php:64
+msgid "Title"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:38, woocommerce/classes/class-wc-widget-top-rated-products.php:40
+msgid "Number of products to show"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:43
+msgid "Show"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:45
+msgid "All Products"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:46
+msgid "Featured Products"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:47
+msgid "On-sale Products"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:53
+msgid "Order by"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:57
+msgid "Random"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:58
+msgid "Sales"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:64
+msgctxt "Sorting order"
+msgid "Order"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:66
+msgid "ASC"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:67
+msgid "DESC"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:73
+msgid "Hide free products"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-products.php:78
+msgid "Show hidden products"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-recent-reviews.php:23
+msgid "Display a list of your most recent reviews on your site."
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-recent-reviews.php:25
+msgid "WooCommerce Recent Reviews"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-recent-reviews.php:29
+msgid "Recent Reviews"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-recent-reviews.php:38
+msgid "Number of reviews to show"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-recent-reviews.php:90
+msgctxt "by comment author"
+msgid "by %1$s"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-top-rated-products.php:25
+msgid "Display a list of your top rated products on your site."
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-top-rated-products.php:27
+msgid "WooCommerce Top Rated Products"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-top-rated-products.php:31
+msgid "Top Rated Products"
+msgstr ""
+
+#: woocommerce/classes/class.yith-wcan-reset-navigation-widget.php:23
+msgid "Reset all filters set by YITH WooCommerce Ajax Product Filter"
+msgstr ""
+
+#: woocommerce/classes/class.yith-wcan-reset-navigation-widget.php:25
+msgid "YITH WooCommerce Ajax Reset Filter"
+msgstr ""
+
+#: woocommerce/classes/class.yith-wcan-reset-navigation-widget.php:79
+msgid "Price : "
+msgstr ""
+
+#: woocommerce/classes/class.yith-wcan-reset-navigation-widget.php:96
+msgid "Reset All Filters"
+msgstr ""
+
+#: woocommerce/classes/class.yith-wcan-reset-navigation-widget.php:109
+msgid "Button Label"
+msgstr ""
+
+#: woocommerce/classes/class.yith-woocompare-widget.php:22
+msgid "The widget shows the list of products added in the comparison table."
+msgstr ""
+
+#: woocommerce/classes/class.yith-woocompare-widget.php:26
+msgid "YITH WooCommerce Compare Widget"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:30
+msgid "Hot"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:42
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:50
+msgid "New"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44, woocommerce/myaccount/form-login.php:95
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:52
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:57
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:63
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:68
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:80
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:38, woocommerce/myaccount/form-login.php:58
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50, woocommerce/myaccount/form-login.php:102
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:64
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:78, woocommerce/myaccount/form-login.php:112
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:88
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:31
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:73
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:77
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:66
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:56
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:28
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:37
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:44
+msgid "l jS \o\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:71
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:31
+msgid "you may also like"
+msgstr ""
+
+#: woocommerce/single-product/sale-flash.php:29
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/single-product/short-description.php:31
+msgid "Quick description"
+msgstr ""
+
+#: inc/admin/metabox/class_post_metabox.php:28, inc/functions/metaboxes/post.php:26
+msgid "Enter the embed link (Youtube or Vimeo). "
+msgstr ""
+
+#: inc/admin/metabox/class_post_metabox.php:50, inc/functions/metaboxes/post.php:33
+msgid "Enter link. "
+msgstr ""
+
+#: inc/admin/metabox/class_post_metabox.php:97
+msgid "Post format: Gallery"
+msgstr ""
+
+#: inc/admin/metabox/class_post_metabox.php:103, inc/admin/metabox/metabox.php:322
+msgid " Select or Upload Image "
+msgstr ""
+
+#: inc/admin/metabox/class_recipe_metabox.php:15, inc/functions/metaboxes/recipe.php:83
+msgid "Recipe Options"
+msgstr ""
+
+#: inc/admin/metabox/class_recipe_metabox.php:25, inc/functions/metaboxes/recipe.php:11
+msgid "Ingredient"
+msgstr ""
+
+#: inc/admin/metabox/class_recipe_metabox.php:35, inc/functions/metaboxes/recipe.php:21
+msgid "Servings"
+msgstr ""
+
+#: inc/admin/metabox/class_recipe_metabox.php:46, inc/functions/metaboxes/recipe.php:32
+msgid "Video link"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:23, inc/functions/metaboxes/page.php:4
+msgid "default"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:28, inc/functions/metaboxes/knowledge.php:35, inc/functions/metaboxes/page.php:125, inc/functions/metaboxes/portfolio.php:36, inc/functions/metaboxes/post.php:88, inc/functions/metaboxes/press.php:41, inc/functions/metaboxes/recipe.php:82
+msgid "Layout Options"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:34, inc/functions/metaboxes/default_options.php:21
+msgid "Preload Layout"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:49, inc/functions/metaboxes/default_options.php:36
+msgid "Header Mobile Position"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:73, inc/functions/metaboxes/default_options.php:59
+msgid "Select Breadcrumbs Type"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:79, inc/functions/metaboxes/default_options.php:65
+msgid "Breadcrumbs Background"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:80, inc/functions/metaboxes/default_options.php:66
+msgid "Upload breadcrumbs background"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:129, inc/admin/metabox/metabox.php:130, inc/functions/metaboxes/default_options.php:113, inc/functions/metaboxes/default_options.php:114
+msgid "Hide footer info"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:135, inc/admin/metabox/metabox.php:136, inc/functions/metaboxes/default_options.php:119, inc/functions/metaboxes/default_options.php:120
+msgid "Remove top space"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:141, inc/admin/metabox/metabox.php:142, inc/functions/metaboxes/default_options.php:125, inc/functions/metaboxes/default_options.php:126
+msgid "Remove bottom space"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:147, inc/functions/metaboxes/default_options.php:131
+msgid "Show Revolution Slider"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:148, inc/functions/metaboxes/default_options.php:132
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:153, inc/functions/metaboxes/default_options.php:137
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:154, inc/functions/metaboxes/default_options.php:138
+msgid "Slider will show if you show revolution slider"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:171, inc/admin/metabox/metabox.php:176, inc/functions/metaboxes/page.php:10
+msgid "Main Color"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:178, inc/functions/metaboxes/page.php:12
+msgid "Select different main color for page"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:182, inc/functions/metaboxes/page.php:16
+msgid "Header Fixed"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:187, inc/admin/settings/settings.php:1007, inc/functions/metaboxes/page.php:21
+msgid "Footer Fixed"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:192, inc/functions/metaboxes/page.php:26
+msgid "Logo header for page"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:193, inc/functions/metaboxes/page.php:27
+msgid "Upload logo header only page"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:199, inc/functions/metaboxes/page.php:32
+msgid "Select header layout for this page"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:204, inc/functions/metaboxes/page.php:37
+msgid "FullWidth"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:211, inc/functions/metaboxes/page.php:44
+msgid "Select font family for header menu"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:219, inc/functions/metaboxes/page.php:52
+msgid "Body Background"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:220, inc/admin/metabox/metabox.php:226, inc/admin/metabox/metabox.php:232, inc/functions/metaboxes/page.php:53, inc/functions/metaboxes/page.php:59, inc/functions/metaboxes/page.php:65
+msgid "You should input hex color(ex: #e1e1e1)."
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:225, inc/functions/metaboxes/page.php:58
+msgid "Footer Background"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:231, inc/functions/metaboxes/page.php:64
+msgid "Footer Color"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:237, inc/functions/metaboxes/page.php:70
+msgid "Logo footer for page"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:238, inc/functions/metaboxes/page.php:71
+msgid "Upload logo footer only page"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:245, inc/functions/metaboxes/page.php:76
+msgid "Newsletter Background Image"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:246, inc/functions/metaboxes/page.php:77
+msgid "Upload image newsletter only page"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:252, inc/functions/metaboxes/page.php:82
+msgid "Newsletter Background Color"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:253, inc/admin/metabox/metabox.php:265, inc/admin/metabox/metabox.php:271, inc/functions/metaboxes/page.php:83, inc/functions/metaboxes/page.php:95, inc/functions/metaboxes/page.php:101
+msgid "You should input hex color(ex: #d09f65)."
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:258, inc/functions/metaboxes/page.php:88
+msgid "Newsletter Color"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:259, inc/functions/metaboxes/page.php:89
+msgid "You should input hex color(ex: #fff)."
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:264, inc/functions/metaboxes/page.php:94
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:270, inc/functions/metaboxes/page.php:100
+msgid "Copyright Color"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:278, inc/admin/metabox/metabox.php:291
+msgid "Knowledge Options"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:283, inc/admin/metabox/metabox.php:296, inc/admin/metabox/metabox.php:342, inc/functions/metaboxes/knowledge.php:6, inc/functions/metaboxes/post.php:15, inc/functions/metaboxes/press.php:12
+msgid "Short Description"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:304
+msgid "Gallery options"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:310, inc/admin/settings/settings.php:1801, inc/functions/metaboxes/portfolio.php:7, inc/functions/metaboxes/portfolio.php:23, inc/functions/metaboxes/recipe.php:70
+msgid "Single gallery layout"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:314, inc/admin/settings/settings.php:1804, inc/functions/metaboxes/portfolio.php:11, inc/functions/metaboxes/portfolio.php:27
+msgid "Slider"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:315, inc/admin/settings/settings.php:1805, inc/functions/metaboxes/portfolio.php:12, inc/functions/metaboxes/portfolio.php:28
+msgid "Side Information"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:321, inc/functions/metaboxes/gallery.php:39
+msgid "Images Gallery"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:331, inc/functions/metaboxes/press.php:42
+msgid "Press Media Options"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:336, inc/functions/metaboxes/press.php:6
+msgid "Input Link or Video"
+msgstr ""
+
+#: inc/admin/metabox/metabox.php:337, inc/functions/metaboxes/press.php:7
+msgid "Input Link PDF or Video"
+msgstr ""
+
+#: inc/admin/posttypes/apr-post-type.php:82, inc/admin/posttypes/apr-post-type.php:82
+msgid "Gallery Tags"
+msgstr ""
+
+#: inc/admin/settings/settings.php:37, inc/admin/settings/settings.php:245
+msgid "General"
+msgstr ""
+
+#: inc/admin/settings/settings.php:55, inc/admin/settings/settings.php:1482, inc/admin/settings/settings.php:1727, inc/admin/settings/settings.php:1881, inc/admin/settings/settings.php:2076, inc/admin/settings/settings.php:2233, inc/admin/settings/settings.php:2409, inc/admin/settings/settings.php:2541
+msgid "Select Left Sidebar"
+msgstr ""
+
+#: inc/admin/settings/settings.php:62, inc/admin/settings/settings.php:1489, inc/admin/settings/settings.php:1734, inc/admin/settings/settings.php:1888, inc/admin/settings/settings.php:2083, inc/admin/settings/settings.php:2240, inc/admin/settings/settings.php:2416, inc/admin/settings/settings.php:2548
+msgid "Select Right Sidebar"
+msgstr ""
+
+#: inc/admin/settings/settings.php:71
+msgid "Logo, Favicon, Js Custom"
+msgstr ""
+
+#: inc/admin/settings/settings.php:78, inc/admin/settings/settings.php:188, inc/admin/settings/settings.php:2870
+msgid "Logo"
+msgstr ""
+
+#: inc/admin/settings/settings.php:100
+msgid "Favicon"
+msgstr ""
+
+#: inc/admin/settings/settings.php:108
+msgid "JS Code"
+msgstr ""
+
+#: inc/admin/settings/settings.php:109
+msgid "Paste your JS code here."
+msgstr ""
+
+#: inc/admin/settings/settings.php:119
+msgid "View, Language Switcher"
+msgstr ""
+
+#: inc/admin/settings/settings.php:124
+msgid "Show Language Switcher"
+msgstr ""
+
+#: inc/admin/settings/settings.php:125
+msgid "This option only works with WPML or Polylang plugins."
+msgstr ""
+
+#: inc/admin/settings/settings.php:126
+msgid "Show language switcher instead of view switcher menu."
+msgstr ""
+
+#: inc/admin/settings/settings.php:134
+msgid "Shortcode Language Switcher "
+msgstr ""
+
+#: inc/admin/settings/settings.php:135
+msgid "This option only works with translation plugins other than WPML or Polylang plugins."
+msgstr ""
+
+#: inc/admin/settings/settings.php:136
+msgid "Ex: language-switcher"
+msgstr ""
+
+#: inc/admin/settings/settings.php:153
+msgid "Preloader"
+msgstr ""
+
+#: inc/admin/settings/settings.php:158
+msgid "Preload "
+msgstr ""
+
+#: inc/admin/settings/settings.php:159
+msgid "Enable Preload site"
+msgstr ""
+
+#: inc/admin/settings/settings.php:161
+msgid "Enable"
+msgstr ""
+
+#: inc/admin/settings/settings.php:162
+msgid "Disable"
+msgstr ""
+
+#: inc/admin/settings/settings.php:169
+msgid "Preload Type"
+msgstr ""
+
+#: inc/admin/settings/settings.php:170
+msgid "Each page will have option for select preload type. Preload selection in each page will have higher priority than this general selection."
+msgstr ""
+
+#: inc/admin/settings/settings.php:206
+msgid "Preload background color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:222
+msgid "Preload color icon"
+msgstr ""
+
+#: inc/admin/settings/settings.php:240
+msgid "Skin"
+msgstr ""
+
+#: inc/admin/settings/settings.php:250
+msgid "General Background"
+msgstr ""
+
+#: inc/admin/settings/settings.php:264
+msgid "General Font"
+msgstr ""
+
+#: inc/admin/settings/settings.php:282
+msgid "Main color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:292
+msgid "Highlight color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:307
+msgid "Breadcrumbs Layout"
+msgstr ""
+
+#: inc/admin/settings/settings.php:315, inc/admin/settings/settings.php:345, inc/admin/settings/settings.php:375
+msgid "Background"
+msgstr ""
+
+#: inc/admin/settings/settings.php:404
+msgid "Background Overlay Color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:411
+msgid "Breadcrumbs Align"
+msgstr ""
+
+#: inc/admin/settings/settings.php:421
+msgid "Set padding for breadcrumb in desktop"
+msgstr ""
+
+#: inc/admin/settings/settings.php:422
+msgid "Allow users to ajust breadcrumb spacing"
+msgstr ""
+
+#: inc/admin/settings/settings.php:428
+msgid "Title Page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:445
+msgid "Icon Home Breadcrumb"
+msgstr ""
+
+#: inc/admin/settings/settings.php:446
+msgid "fa fa-home"
+msgstr ""
+
+#: inc/admin/settings/settings.php:448
+msgid "Add icon class you want here. You can find a lot of icons in these links <a target=\"_blank\" href=\"http://fontawesome.io/icons/\">Awesome icon</a> or <a target=\"_blank\" href=\"https://linearicons.com/free\">Linearicons </a>, and <a target=\"_blank\" href=\"http://themes-pixeden.com/font-demos/7-stroke/\">Pe stroke icon7 </a>"
+msgstr ""
+
+#: inc/admin/settings/settings.php:460
+msgid "Link Breadcrumb Option"
+msgstr ""
+
+#: inc/admin/settings/settings.php:479
+msgid "Typography"
+msgstr ""
+
+#: inc/admin/settings/settings.php:484
+msgid "H1 Font"
+msgstr ""
+
+#: inc/admin/settings/settings.php:502
+msgid "H2 Font"
+msgstr ""
+
+#: inc/admin/settings/settings.php:520
+msgid "H3 Font"
+msgstr ""
+
+#: inc/admin/settings/settings.php:538
+msgid "H4 Font"
+msgstr ""
+
+#: inc/admin/settings/settings.php:556
+msgid "H5 Font"
+msgstr ""
+
+#: inc/admin/settings/settings.php:574
+msgid "H6 Font"
+msgstr ""
+
+#: inc/admin/settings/settings.php:594
+msgid "Custom"
+msgstr ""
+
+#: inc/admin/settings/settings.php:599
+msgid "CSS"
+msgstr ""
+
+#: inc/admin/settings/settings.php:600
+msgid "Enter CSS code here."
+msgstr ""
+
+#: inc/admin/settings/settings.php:611
+msgid "Side Header Information"
+msgstr ""
+
+#: inc/admin/settings/settings.php:616
+msgid "Enable Side Header Information"
+msgstr ""
+
+#: inc/admin/settings/settings.php:622
+msgid "Icon Information"
+msgstr ""
+
+#: inc/admin/settings/settings.php:624
+msgid "pe-7s-edit"
+msgstr ""
+
+#: inc/admin/settings/settings.php:633, inc/admin/settings/settings.php:3064, inc/admin/settings/settings.php:3102, inc/admin/settings/settings.php:3200, inc/admin/settings/settings.php:3238, inc/admin/settings/settings.php:3277
+msgid "Add icon class you want here. You can find a lot of icons in these links <a target=\"_blank\" href=\"http://fontawesome.io/icons/\">Awesome icon</a> or <a target=\"_blank\" href=\"https://linearicons.com/free\">Linearicons </a>, <a target=\"_blank\" href=\"http://themes-pixeden.com/font-demos/7-stroke/\">Pe stroke icon7 </a> and <a target=\"_blank\" href=\"https://www.dropbox.com/s/oy8lsb7u4eli7rt/barber_font.png?dl=0\">Efarm icon list </a>"
+msgstr ""
+
+#: inc/admin/settings/settings.php:645
+msgid "Slogan"
+msgstr ""
+
+#: inc/admin/settings/settings.php:658
+msgid "Show Twitter"
+msgstr ""
+
+#: inc/admin/settings/settings.php:665
+msgid "Show Contact Form"
+msgstr ""
+
+#: inc/admin/settings/settings.php:672
+msgid "Contact form shortcode"
+msgstr ""
+
+#: inc/admin/settings/settings.php:675
+msgid "Get contact form shortcode in Contact > Contact Forms"
+msgstr ""
+
+#: inc/admin/settings/settings.php:680
+msgid "Show Instagram"
+msgstr ""
+
+#: inc/admin/settings/settings.php:688
+msgid "Iframe Instagram"
+msgstr ""
+
+#: inc/admin/settings/settings.php:689
+msgid "Get Iframe In Website http://instaembedder.com/ or http://widgets.websta.me/"
+msgstr ""
+
+#: inc/admin/settings/settings.php:694
+msgid "Show Contact Us"
+msgstr ""
+
+#: inc/admin/settings/settings.php:700
+msgid "Callto"
+msgstr ""
+
+#: inc/admin/settings/settings.php:713
+msgid "Mailto"
+msgstr ""
+
+#: inc/admin/settings/settings.php:726, inc/admin/settings/settings.php:1057
+msgid "Address"
+msgstr ""
+
+#: inc/admin/settings/settings.php:741
+msgid "Header Styling"
+msgstr ""
+
+#: inc/admin/settings/settings.php:747
+msgid "Set height header"
+msgstr ""
+
+#: inc/admin/settings/settings.php:748
+msgid "Allow users to set height for header"
+msgstr ""
+
+#: inc/admin/settings/settings.php:755
+msgid "Set height header sticky"
+msgstr ""
+
+#: inc/admin/settings/settings.php:756
+msgid "Allow users to set height for header sticky"
+msgstr ""
+
+#: inc/admin/settings/settings.php:763
+msgid "Set logo image width and height"
+msgstr ""
+
+#: inc/admin/settings/settings.php:764
+msgid "Allow users to set width and height for header logo image"
+msgstr ""
+
+#: inc/admin/settings/settings.php:771
+msgid "[Mobile] Set logo image width and height in mobile menu"
+msgstr ""
+
+#: inc/admin/settings/settings.php:780
+msgid "Set padding for header logo in desktop"
+msgstr ""
+
+#: inc/admin/settings/settings.php:781
+msgid "Allow users to ajust logo spacing"
+msgstr ""
+
+#: inc/admin/settings/settings.php:789
+msgid "Set padding for menu items"
+msgstr ""
+
+#: inc/admin/settings/settings.php:790
+msgid "Allow users to ajust menu item spacing"
+msgstr ""
+
+#: inc/admin/settings/settings.php:795
+msgid "Select header for styling"
+msgstr ""
+
+#: inc/admin/settings/settings.php:803
+msgid "Header background color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:821, inc/admin/settings/settings.php:894
+msgid "Header Menu Color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:840, inc/admin/settings/settings.php:911
+msgid "Header background color hover submenu"
+msgstr ""
+
+#: inc/admin/settings/settings.php:858, inc/admin/settings/settings.php:927
+msgid "Header Submenu Border Color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:878, inc/admin/settings/settings.php:945
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:961
+msgid "Header Background Top Header"
+msgstr ""
+
+#: inc/admin/settings/settings.php:976
+msgid "Header Color Top Header"
+msgstr ""
+
+#: inc/admin/settings/settings.php:999, inc/admin/settings/settings.php:2682, inc/admin/settings/settings.php:2720
+msgid "Footer Type"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1001
+msgid "Each page will have option for select footer type. Footer selection in each page will have higher priority than this general selection."
+msgstr ""
+
+#: inc/admin/settings/settings.php:1015
+msgid "Footer logo"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1029
+msgid "Footer v4 logo"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1041
+msgid "Show Contact Info"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1056
+msgid "19th street, City, NY 95822, USA"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1063
+msgid "+84437955813"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1070
+msgid "arrowpress@arrowhitech.com"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1077
+msgid "Show Payment"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1092
+msgid "Paypal"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1094, inc/admin/settings/settings.php:1101, inc/admin/settings/settings.php:1108, inc/admin/settings/settings.php:1115, inc/admin/settings/settings.php:1122, inc/admin/settings/settings.php:1164, inc/admin/settings/settings.php:1177, inc/admin/settings/settings.php:1184, inc/admin/settings/settings.php:1191, inc/admin/settings/settings.php:1198, inc/admin/settings/settings.php:3296, inc/admin/settings/settings.php:3309, inc/admin/settings/settings.php:3322, inc/admin/settings/settings.php:3335, inc/admin/settings/settings.php:3348
+msgid "http://"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1099
+msgid "Visa"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1106
+msgid "Master card"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1113
+msgid "Discover"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1120
+msgid "Amex"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1127
+msgid "Footer info title"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1129
+msgid "About Us"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1135
+msgid "Footer Description"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1150, inc/admin/settings/settings.php:1620, inc/admin/settings/settings.php:1982, inc/admin/settings/settings.php:2156, inc/admin/settings/settings.php:2330, inc/admin/settings/settings.php:3295
+msgid "Twitter"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1151
+msgid "https://twitter.com/arrowpress1"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1157, inc/admin/settings/settings.php:1619, inc/admin/settings/settings.php:1981, inc/admin/settings/settings.php:2155, inc/admin/settings/settings.php:2329, inc/admin/settings/settings.php:3321
+msgid "Facebook"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1158
+msgid "https://facebook.com/arrowpress"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1163
+msgid "Google"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1169, inc/admin/settings/settings.php:1622, inc/admin/settings/settings.php:2158, inc/admin/settings/settings.php:2332, inc/admin/settings/settings.php:3308
+msgid "Instagram"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1170
+msgid "https://www.instagram.com/aprefarn/"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1175, inc/admin/settings/settings.php:1621, inc/admin/settings/settings.php:1983, inc/admin/settings/settings.php:2157, inc/admin/settings/settings.php:2331, inc/admin/settings/settings.php:3347
+msgid "Pinterest"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1182
+msgid "Dribbble"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1189, inc/admin/settings/settings.php:1985
+msgid "Linkedin"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1196
+msgid "Behance"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1203
+msgid "Copyright"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1205
+msgid " Copyright @ 2017 <a target=\"_blank\" href=\"http://hn.arrowpress.net/efarm\">eFarm</a>. All Rights Reserved. Powered by <a target=\"_blank\" href=\"http://www.arrowhitech.com/\">ArrowHitech</a>."
+msgstr ""
+
+#: inc/admin/settings/settings.php:1225
+msgid "Footer Styling"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1230
+msgid "Select footer for styling"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1237, inc/admin/settings/settings.php:1252, inc/admin/settings/settings.php:1267
+msgid "Background color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1283
+msgid "Title color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1300, inc/admin/settings/settings.php:1315
+msgid "Footer text color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1333
+msgid "Newsletter background"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1363
+msgid "Footer social color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1380, inc/admin/settings/settings.php:1395, inc/admin/settings/settings.php:1410
+msgid "Footer copyright background color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1426, inc/admin/settings/settings.php:1441
+msgid "Footer copyright color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1459
+msgid "Blog archive"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1464
+msgid "Blog layout default"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1496
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1503
+msgid "Blog Columns"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1545, inc/admin/settings/settings.php:1567
+msgid "Post Meta"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1548, inc/admin/settings/settings.php:1570, inc/admin/settings/settings.php:1947, inc/admin/settings/settings.php:2134, inc/admin/settings/settings.php:2300
+msgid "Author"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1549, inc/admin/settings/settings.php:1571, inc/admin/settings/settings.php:1948, inc/admin/settings/settings.php:1968, inc/admin/settings/settings.php:2135, inc/admin/settings/settings.php:2301
+msgid "Comment"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1553, inc/admin/settings/settings.php:1575, inc/admin/settings/settings.php:1952, inc/admin/settings/settings.php:2139, inc/admin/settings/settings.php:2305, inc/admin/settings/settings.php:2630, woocommerce/single-product/tabs/tabs.php:50
+msgid "Tags"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1590
+msgid "Use default date format setting in Settings > General"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1597
+msgid "Set blog date width and height"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1604
+msgid "Single Blog"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1616
+msgid "Post Share Links"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1630
+msgid "Portfolio"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1635
+msgid "Portfolio Archive Page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1640
+msgid "Changing portfolio slug"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1646, inc/admin/settings/settings.php:1830, inc/admin/settings/settings.php:2025, inc/admin/settings/settings.php:2182
+msgid "Custom Slug"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1647
+msgid "If you want your gallery post type to have a custom slug in the url, please enter it here."
+msgstr ""
+
+#: inc/admin/settings/settings.php:1648, inc/admin/settings/settings.php:1665, inc/admin/settings/settings.php:1687, inc/admin/settings/settings.php:1849, inc/admin/settings/settings.php:2044, inc/admin/settings/settings.php:2201
+msgid ""
+"You will still have to refresh your permalinks after saving this! \n"
+"    This is done by going to Settings > Permalinks and clicking save."
+msgstr ""
+
+#: inc/admin/settings/settings.php:1663
+msgid "Custom Slug for Portfolio category"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1664
+msgid "If you want your gallery category to have a custom slug in the url, please enter it here."
+msgstr ""
+
+#: inc/admin/settings/settings.php:1685
+msgid "Custom Slug for Portfolio tag"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1686
+msgid "If you want your gallery tag to have a custom slug in the url, please enter it here."
+msgstr ""
+
+#: inc/admin/settings/settings.php:1707
+msgid "The below options is also available in each Gallery Category. Please go to Gallery > Gallery Category and edit a category for more detail. The selections in each category will have higher priority than below general selections"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1712
+msgid "Show Filter"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1720
+msgid "General Layout"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1741
+msgid "Portfolio Columns"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1748
+msgid "Remove space"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1756
+msgid "Portfolio Style"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1763
+msgid "Portfolio layouts"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1770
+msgid "Portfolio loadmore style"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1791
+msgid "Single Portfolio"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1796
+msgid "Portfolio detail page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1814
+msgid "Recipe"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1819
+msgid "Recipe Archive Page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1824
+msgid "Changing recipe slug"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1831
+msgid "If you want your recipe post type to have a custom slug in the url, please enter it here."
+msgstr ""
+
+#: inc/admin/settings/settings.php:1832, inc/admin/settings/settings.php:2027
+msgid ""
+"You will still have to refresh your permalinks after saving this! \n"
+"													This is done by going to Settings > Permalinks and clicking save."
+msgstr ""
+
+#: inc/admin/settings/settings.php:1847
+msgid "Custom Slug for Recipe category"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1848
+msgid "If you want your recipe category to have a custom slug in the url, please enter it here."
+msgstr ""
+
+#: inc/admin/settings/settings.php:1869
+msgid "The below options is also available in each Recipe Category. Please go to Recipes > Recipe Category and edit a category for more detail. The selections in each category will have higher priority than below general selections"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1895, inc/admin/settings/settings.php:3047, inc/admin/settings/settings.php:3076
+msgid "Show Search"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1903
+msgid "Recipe Layout"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1910
+msgid "Recipe Columns"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1924
+msgid "Recipe show per page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1944
+msgid "Recipe Meta"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1960
+msgid "Single Recipe"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1965
+msgid "Recipe tabs"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1978
+msgid "Recipe Share Links"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1984
+msgid "Goolge"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1991
+msgid "Print button shortcode"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1992
+msgid "Add shortcode for print button here. Default [print_button]"
+msgstr ""
+
+#: inc/admin/settings/settings.php:1998
+msgid "Display print button for recipe directions"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2009
+msgid "Knowledge"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2014
+msgid "Knowledge Archive Page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2019
+msgid "Changing knowledge slug"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2026
+msgid "If you want your knowledge post type to have a custom slug in the url, please enter it here."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2042
+msgid "Custom Slug for knowledge category"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2043
+msgid "If you want your knowledge category to have a custom slug in the url, please enter it here."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2064
+msgid "The below options is also available in each Knowledge Category. Please go to Knowledge > Knowledge Category and edit a category for more detail. The selections in each category will have higher priority than below general selections"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2090
+msgid "Knowledge Layout"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2097
+msgid "Knowledge Columns"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2111
+msgid "Knowledge show per page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2131
+msgid "Knowledge Meta"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2147
+msgid "Single Knowledge"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2152
+msgid "Knowledge Share Links"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2171
+msgid "Press Media Archive Page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2176
+msgid "Changing press media slug"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2183
+msgid "If you want your press media post type to have a custom slug in the url, please enter it here."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2184
+msgid ""
+"You will still have to refresh your permalinks after saving this! \n"
+"                                                    This is done by going to Settings > Permalinks and clicking save."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2199
+msgid "Custom Slug for press media category"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2200
+msgid "If you want your press media category to have a custom slug in the url, please enter it here."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2221
+msgid "The below options is also available in each Press Media Category. Please go to Press Media > Press Media Category and edit a category for more detail. The selections in each category will have higher priority than below general selections"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2247
+msgid "Press Media Layout"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2254
+msgid "Press Media Columns"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2269
+msgid "Press media show per page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2278
+msgid "Show/Hiden all filter"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2297
+msgid "Press Media Meta"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2312
+msgid "Select Banner Bottom"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2314
+msgid "Choose a static block to display at the top of pages. You can create a block in Static Block/Add New."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2321
+msgid "Single Press Media"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2326
+msgid "Press Media Share Links"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2340
+msgid "Shop"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2345
+msgid "Show Slider"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2353
+msgid "Show Number Slide Categories Desktop"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2366
+msgid "Show Add to Cart button"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2374
+msgid "Show Product Price"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2382
+msgid "Show Product Label"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2392, inc/admin/settings/settings.php:2397
+msgid "Product listing"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2423
+msgid "Show breadcrumb background following product category thumbnail"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2427
+msgid "This option will work in product category page. If you uploaded product category thumbnail, the image will be displayed in breadcrumb part as background. Large image size will be recommended."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2433
+msgid "Comma separated list of product counts."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2439
+msgid "Product Layouts"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2446
+msgid "Product Columns"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2460
+msgid "Show Quickview"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2468
+msgid "Show Compare"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2476
+msgid "Show Wishlist"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2484
+msgid "Show Rating"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2492
+msgid "Show \"Hot\" Label"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2493
+msgid "Will be show in the featured product."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2501
+msgid "Show \"New\" Label"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2502
+msgid "Will be show in the recent product."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2510
+msgid "Show \"Sale\" Label"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2511
+msgid "Will be show in the special product."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2519
+msgid "Show Sale Price Percentage"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2529
+msgid "Single Product"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2555
+msgid "Show Ajax Add to cart"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2563
+msgid "Show Product share link"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2571
+msgid "Show Related Products"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2579
+msgid "Remove Product Review tab"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2587
+msgid "Remove Product Description tab"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2595
+msgid "Remove Additional Information tab"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2603
+msgid "Remove Tag Tab"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2611
+msgid "Rename Product Review Tab"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2617
+msgid "Rename Product Description Tab"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2623
+msgid "Rename Additional Information Tab"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2624
+msgid "Additional Information"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2629
+msgid "Rename Tag Tab"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2637
+msgid "404 Page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2644, inc/admin/settings/settings.php:2728
+msgid "Background image"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2645
+msgid "Background image for 404 page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2653
+msgid "404 title"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2654
+msgid "404"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2659
+msgid "404 content"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2660
+msgid "The page you're looking for cannot be found"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2665
+msgid "Text color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2675, inc/admin/settings/settings.php:2704, inc/admin/settings/settings.php:2843
+msgid "Header Type"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2694
+msgid "Display header in coming soon page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2710
+msgid "Display footer in coming soon page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2729
+msgid "Background image for coming soon page"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2737
+msgid "Background overlay color"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2745
+msgid "Big Title"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2747
+msgid "<h3>Launching</h3><h2>Very soon</h2>"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2770
+msgid "Countdown Timer"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2775
+msgid "Display countdown timer"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2783
+msgid "End date"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2790
+msgid "Text display under day number"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2791
+msgid "D"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2796
+msgid "Text display under hour number"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2797
+msgid "H"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2802
+msgid "Text display under minute number"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2803
+msgid "M"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2808
+msgid "Text display under secs number"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2809
+msgid "S"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2814
+msgid "Display subcribe form"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2822
+msgid "Submit button text in subcribe form"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2823
+msgid "Notify me"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2844
+msgid "Each page will have option for select header type. Header selection in each page will have higher priority than this general selection."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2851
+msgid "Header Description"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2891, inc/admin/settings/settings.php:2908, inc/admin/settings/settings.php:2925, inc/admin/settings/settings.php:2942, inc/admin/settings/settings.php:2959
+msgid "Header logo"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2974
+msgid "Select Top Slider"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2976
+msgid "Choose a slider to display at the top of pages. You can create a block in Static Block/Add New."
+msgstr ""
+
+#: inc/admin/settings/settings.php:2991
+msgid "Enable Fixed Header (Header displays over content)"
+msgstr ""
+
+#: inc/admin/settings/settings.php:2997, inc/admin/settings/settings.php:3016
+msgid "Show Top Header"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3031
+msgid "Show Categories"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3053, inc/admin/settings/settings.php:3091
+msgid "Icon Search"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3055
+msgid "pe-7s-search"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3093
+msgid "lnr lnr-magnifier"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3114, inc/admin/settings/settings.php:3133
+msgid "Header Search Style"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3116, inc/admin/settings/settings.php:3135
+msgid "Standard"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3117, inc/admin/settings/settings.php:3136
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3153
+msgid "Header Search Type"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3155
+msgid "Product (if Woocommerce enable)"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3156
+msgid "Blog"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3163
+msgid "Enable ajax search"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3169, inc/admin/settings/settings.php:3212
+msgid "Show Mini Cart"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3189, inc/admin/settings/settings.php:3227
+msgid "Icon Mini Cart"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3191
+msgid "pe-7s-cart"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3228
+msgid "icon-10"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3250
+msgid "Show My Account"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3266
+msgid "Icon My Account"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3267
+msgid "lnr lnr-user"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3289
+msgid "Show Social Link"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3334
+msgid "Google Plus"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3360
+msgid "Enable Sticky"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3367
+msgid "Enable Sticky On Mobile "
+msgstr ""
+
+#: inc/admin/settings/settings.php:3373
+msgid "Header Menu Mobile"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3383
+msgid "[Mobile] Enable Account tab "
+msgstr ""
+
+#: inc/admin/settings/settings.php:3389
+msgid "[Mobile] Header Mobile Position"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3407, inc/admin/settings/settings.php:3412
+msgid "Apr"
+msgstr ""
+
+#: inc/admin/settings/settings.php:3411
+msgid "Apr Options"
+msgstr ""
+
+#: inc/functions/metaboxes/functions.php:21
+msgid "Related Projects"
+msgstr ""
+
+#: inc/functions/metaboxes/functions.php:164
+msgid "Upload File"
+msgstr ""
+
+#: inc/functions/metaboxes/functions.php:165
+msgid "Remove File"
+msgstr ""
+
+#: inc/functions/metaboxes/functions.php:245
+msgid "Transparent"
+msgstr ""
+
+#: inc/functions/metaboxes/gallery.php:54
+msgid "Add image(s) to gallery"
+msgstr ""
+
+#: inc/functions/metaboxes/gallery.php:55, inc/functions/metaboxes/gallery.php:56, inc/functions/metaboxes/gallery.php:56
+msgid "Add image(s)"
+msgstr ""
+
+#: inc/functions/metaboxes/gallery.php:64, inc/functions/metaboxes/gallery.php:65, inc/functions/metaboxes/gallery.php:66
+msgid "Change image"
+msgstr ""
+
+#: inc/functions/metaboxes/knowledge.php:36
+msgid "knowledge Options"
+msgstr ""
+
+#: inc/functions/metaboxes/page.php:126
+msgid "Skin Options"
+msgstr ""
+
+#: inc/functions/metaboxes/post.php:25
+msgid "Video & Audio Embed Code"
+msgstr ""
+
+#: inc/functions/metaboxes/post.php:32
+msgid "Link"
+msgstr ""
+
+#: inc/functions/metaboxes/post.php:39
+msgid "Link title"
+msgstr ""
+
+#: inc/functions/metaboxes/post.php:40
+msgid "Enter link title. "
+msgstr ""
+
+#: inc/functions/metaboxes/post.php:46
+msgid "Quote"
+msgstr ""
+
+#: inc/functions/metaboxes/post.php:47
+msgid "Enter quote. "
+msgstr ""
+
+#: inc/functions/metaboxes/post.php:53
+msgid "Quote author"
+msgstr ""
+
+#: inc/functions/metaboxes/post.php:54
+msgid "Enter quote author. "
+msgstr ""
+
+#: inc/functions/metaboxes/post.php:86
+msgid "Post Format"
+msgstr ""
+
+#: inc/functions/metaboxes/post.php:87
+msgid "Blog Options"
+msgstr ""
+
+#: inc/functions/metaboxes/products.php:6
+msgid "Sub Title"
+msgstr ""
+
+#: inc/functions/metaboxes/products.php:7
+msgid "Enter Sub Title for product."
+msgstr ""
+
+#: inc/functions/metaboxes/products.php:12
+msgid "Product Unit"
+msgstr ""
+
+#: inc/functions/metaboxes/products.php:13
+msgid "Enter units for product."
+msgstr ""
+
+#: inc/functions/metaboxes/products.php:19
+msgid "Custom Tab Title"
+msgstr ""
+
+#: inc/functions/metaboxes/products.php:20
+msgid "Input the custom tab title."
+msgstr ""
+
+#: inc/functions/metaboxes/products.php:26
+msgid "Custom Tab Content"
+msgstr ""
+
+#: inc/functions/metaboxes/products.php:27
+msgid "Input the custom tab content."
+msgstr ""
+
+#: inc/functions/metaboxes/products.php:45
+msgid "Product Custom Options"
+msgstr ""
+
+#: inc/functions/metaboxes/products.php:98
+msgid "Related product columns"
+msgstr ""
+
+#: inc/functions/metaboxes/products.php:122
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/functions/metaboxes/recipe.php:55
+msgid "Single recipe layout"
+msgstr ""
+
+#: inc/functions/metaboxes/related_post.php:36
+msgid "Related post"
+msgstr ""
+
+#: inc/functions/panel-social/functions.php:18
+msgid "Follow me on tweets"
+msgstr ""
+
+#: inc/functions/panel-social/functions.php:28
+msgid "Contact us"
+msgstr ""
+
+#: inc/functions/panel-social/functions.php:29
+msgid "Contact us today for further info:"
+msgstr ""
+
+#: inc/functions/panel-social/functions.php:43
+msgid "Store Location"
+msgstr ""
+
+#: inc/functions/panel-social/functions.php:104
+msgid "Follow me on instagram"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:36, woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php:18
+msgid "Qty:"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:54
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:34
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/tabs/tabs.php:69
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
